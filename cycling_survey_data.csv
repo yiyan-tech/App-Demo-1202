@@ -1,0 +1,1001 @@
+User_ID,Segment,Primary_Need,Preferred_Device,Budget_INR,Location
+1,Commuter,Battery Life,Smartphone Mount,4163,Bangalore
+2,Enthusiast/Pro,Stabilization,360 Cam,39092,Chennai
+3,Fitness/Recreational,Social Sharing,Mid-range Action Cam,7421,Pune
+4,Fitness/Recreational,Scenery,360 Cam,11609,Pune
+5,Commuter,Safety/Dashcam,Smartphone Mount,4142,Mumbai
+6,Commuter,Evidence,Smartphone Mount,546,Pune
+7,Commuter,Evidence,Smartphone Mount,900,Mumbai
+8,Enthusiast/Pro,Stabilization,High-end Action Cam,39541,Chennai
+9,Fitness/Recreational,Scenery,Smartphone Mount,9430,Tier-2 City
+10,Fitness/Recreational,Social Sharing,Mid-range Action Cam,16122,Tier-2 City
+11,Commuter,Evidence,Smartphone Mount,2000,Chennai
+12,Enthusiast/Pro,Image Quality,360 Cam,38803,Chennai
+13,Fitness/Recreational,Ease of Use,Smartphone Mount,6466,Delhi
+14,Commuter,Evidence,Smartphone Mount,1682,Chennai
+15,Commuter,Battery Life,Smartphone Mount,630,Pune
+16,Commuter,Safety/Dashcam,Smartphone Mount,4778,Tier-2 City
+17,Commuter,Battery Life,Smartphone Mount,4459,Bangalore
+18,Fitness/Recreational,Social Sharing,Mid-range Action Cam,5920,Tier-2 City
+19,Commuter,Safety/Dashcam,Smartphone Mount,4611,Mumbai
+20,Commuter,Safety/Dashcam,Smartphone Mount,4021,Tier-2 City
+21,Fitness/Recreational,Ease of Use,Smartphone Mount,5545,Delhi
+22,Commuter,Evidence,Smartphone Mount,2304,Chennai
+23,Commuter,Safety/Dashcam,Smartphone Mount,4310,Chennai
+24,Commuter,Battery Life,Budget Action Cam,4624,Tier-2 City
+25,Commuter,Evidence,Smartphone Mount,4913,Bangalore
+26,Fitness/Recreational,Social Sharing,Smartphone Mount,5271,Bangalore
+27,Commuter,Battery Life,Smartphone Mount,1420,Delhi
+28,Fitness/Recreational,Ease of Use,Smartphone Mount,17676,Mumbai
+29,Fitness/Recreational,Social Sharing,Smartphone Mount,7050,Tier-2 City
+30,Commuter,Safety/Dashcam,Smartphone Mount,2533,Chennai
+31,Fitness/Recreational,Scenery,Smartphone Mount,12832,Tier-2 City
+32,Commuter,Safety/Dashcam,Budget Action Cam,3132,Delhi
+33,Commuter,Battery Life,Smartphone Mount,1463,Pune
+34,Enthusiast/Pro,Stabilization,Drone,46684,Pune
+35,Enthusiast/Pro,Data Overlay,High-end Action Cam,24805,Delhi
+36,Fitness/Recreational,Ease of Use,Mid-range Action Cam,18613,Chennai
+37,Commuter,Battery Life,Budget Action Cam,1384,Delhi
+38,Commuter,Battery Life,Smartphone Mount,3901,Chennai
+39,Fitness/Recreational,Ease of Use,Smartphone Mount,7265,Bangalore
+40,Commuter,Safety/Dashcam,Smartphone Mount,4345,Delhi
+41,Commuter,Safety/Dashcam,Smartphone Mount,1226,Chennai
+42,Commuter,Safety/Dashcam,Smartphone Mount,2413,Delhi
+43,Commuter,Safety/Dashcam,Smartphone Mount,2966,Delhi
+44,Enthusiast/Pro,Image Quality,High-end Action Cam,43696,Chennai
+45,Commuter,Battery Life,Budget Action Cam,4569,Chennai
+46,Fitness/Recreational,Social Sharing,Smartphone Mount,15222,Mumbai
+47,Commuter,Safety/Dashcam,Smartphone Mount,2433,Delhi
+48,Fitness/Recreational,Social Sharing,Smartphone Mount,6640,Pune
+49,Fitness/Recreational,Ease of Use,Smartphone Mount,6218,Delhi
+50,Commuter,Safety/Dashcam,Budget Action Cam,4765,Delhi
+51,Enthusiast/Pro,Data Overlay,High-end Action Cam,29752,Chennai
+52,Fitness/Recreational,Social Sharing,Mid-range Action Cam,14175,Delhi
+53,Enthusiast/Pro,Stabilization,High-end Action Cam,41754,Tier-2 City
+54,Enthusiast/Pro,Data Overlay,High-end Action Cam,29105,Delhi
+55,Fitness/Recreational,Scenery,360 Cam,14903,Tier-2 City
+56,Enthusiast/Pro,Data Overlay,360 Cam,41452,Pune
+57,Commuter,Safety/Dashcam,Smartphone Mount,1824,Chennai
+58,Commuter,Evidence,Smartphone Mount,3245,Delhi
+59,Commuter,Battery Life,Smartphone Mount,4430,Tier-2 City
+60,Commuter,Safety/Dashcam,Smartphone Mount,1785,Tier-2 City
+61,Commuter,Battery Life,Budget Action Cam,2639,Tier-2 City
+62,Commuter,Safety/Dashcam,Smartphone Mount,2204,Bangalore
+63,Fitness/Recreational,Social Sharing,Mid-range Action Cam,14908,Mumbai
+64,Commuter,Evidence,Smartphone Mount,4238,Pune
+65,Commuter,Evidence,Smartphone Mount,1056,Delhi
+66,Fitness/Recreational,Scenery,Smartphone Mount,10150,Bangalore
+67,Commuter,Battery Life,Smartphone Mount,3219,Delhi
+68,Fitness/Recreational,Ease of Use,Smartphone Mount,14766,Delhi
+69,Commuter,Battery Life,Smartphone Mount,3829,Chennai
+70,Enthusiast/Pro,Image Quality,360 Cam,46123,Chennai
+71,Fitness/Recreational,Ease of Use,Smartphone Mount,18836,Chennai
+72,Commuter,Evidence,Smartphone Mount,2564,Bangalore
+73,Commuter,Battery Life,Smartphone Mount,1507,Delhi
+74,Fitness/Recreational,Scenery,Smartphone Mount,16718,Mumbai
+75,Fitness/Recreational,Scenery,Smartphone Mount,18281,Pune
+76,Fitness/Recreational,Ease of Use,Smartphone Mount,7382,Chennai
+77,Fitness/Recreational,Scenery,Mid-range Action Cam,5277,Chennai
+78,Commuter,Evidence,Budget Action Cam,1540,Delhi
+79,Commuter,Evidence,Budget Action Cam,1385,Delhi
+80,Commuter,Safety/Dashcam,Smartphone Mount,3691,Bangalore
+81,Enthusiast/Pro,Stabilization,360 Cam,43821,Bangalore
+82,Fitness/Recreational,Ease of Use,360 Cam,16939,Chennai
+83,Commuter,Battery Life,Smartphone Mount,2928,Delhi
+84,Commuter,Battery Life,Smartphone Mount,3604,Mumbai
+85,Commuter,Evidence,Smartphone Mount,4499,Pune
+86,Commuter,Battery Life,Smartphone Mount,4109,Delhi
+87,Fitness/Recreational,Scenery,Smartphone Mount,8356,Delhi
+88,Fitness/Recreational,Social Sharing,Smartphone Mount,5038,Tier-2 City
+89,Enthusiast/Pro,Stabilization,360 Cam,30396,Bangalore
+90,Commuter,Battery Life,Smartphone Mount,3701,Pune
+91,Commuter,Battery Life,Smartphone Mount,3593,Chennai
+92,Fitness/Recreational,Ease of Use,Smartphone Mount,7896,Delhi
+93,Fitness/Recreational,Scenery,Smartphone Mount,5988,Chennai
+94,Fitness/Recreational,Social Sharing,360 Cam,18156,Delhi
+95,Fitness/Recreational,Ease of Use,360 Cam,6682,Chennai
+96,Commuter,Safety/Dashcam,Smartphone Mount,4463,Pune
+97,Fitness/Recreational,Scenery,Smartphone Mount,6980,Bangalore
+98,Commuter,Battery Life,Smartphone Mount,1292,Pune
+99,Commuter,Evidence,Budget Action Cam,2755,Tier-2 City
+100,Commuter,Battery Life,Budget Action Cam,1484,Mumbai
+101,Commuter,Safety/Dashcam,Smartphone Mount,1019,Bangalore
+102,Fitness/Recreational,Ease of Use,Smartphone Mount,8633,Pune
+103,Commuter,Battery Life,Smartphone Mount,1459,Tier-2 City
+104,Fitness/Recreational,Social Sharing,360 Cam,9473,Mumbai
+105,Enthusiast/Pro,Stabilization,High-end Action Cam,20526,Tier-2 City
+106,Commuter,Safety/Dashcam,Smartphone Mount,3844,Delhi
+107,Commuter,Evidence,Smartphone Mount,2263,Delhi
+108,Fitness/Recreational,Social Sharing,Smartphone Mount,14208,Chennai
+109,Commuter,Battery Life,Smartphone Mount,616,Bangalore
+110,Commuter,Evidence,Budget Action Cam,894,Delhi
+111,Commuter,Safety/Dashcam,Smartphone Mount,4360,Tier-2 City
+112,Commuter,Evidence,Smartphone Mount,4933,Bangalore
+113,Enthusiast/Pro,Image Quality,Drone,28357,Delhi
+114,Fitness/Recreational,Ease of Use,Mid-range Action Cam,7043,Chennai
+115,Fitness/Recreational,Scenery,360 Cam,5778,Pune
+116,Enthusiast/Pro,Image Quality,360 Cam,29768,Chennai
+117,Fitness/Recreational,Social Sharing,Smartphone Mount,8117,Mumbai
+118,Commuter,Battery Life,Smartphone Mount,3220,Delhi
+119,Enthusiast/Pro,Image Quality,360 Cam,48913,Mumbai
+120,Fitness/Recreational,Social Sharing,Mid-range Action Cam,16040,Mumbai
+121,Fitness/Recreational,Social Sharing,Smartphone Mount,11732,Tier-2 City
+122,Enthusiast/Pro,Image Quality,High-end Action Cam,30433,Bangalore
+123,Commuter,Evidence,Smartphone Mount,2209,Tier-2 City
+124,Commuter,Evidence,Budget Action Cam,3541,Delhi
+125,Commuter,Evidence,Smartphone Mount,2395,Mumbai
+126,Commuter,Battery Life,Smartphone Mount,1134,Pune
+127,Fitness/Recreational,Scenery,Mid-range Action Cam,8144,Mumbai
+128,Enthusiast/Pro,Stabilization,360 Cam,20552,Pune
+129,Commuter,Evidence,Budget Action Cam,4411,Tier-2 City
+130,Fitness/Recreational,Scenery,Mid-range Action Cam,14299,Tier-2 City
+131,Commuter,Evidence,Smartphone Mount,2930,Bangalore
+132,Commuter,Battery Life,Smartphone Mount,707,Mumbai
+133,Commuter,Evidence,Budget Action Cam,909,Chennai
+134,Commuter,Battery Life,Smartphone Mount,4609,Tier-2 City
+135,Enthusiast/Pro,Stabilization,360 Cam,27179,Tier-2 City
+136,Commuter,Battery Life,Smartphone Mount,2060,Bangalore
+137,Fitness/Recreational,Social Sharing,Mid-range Action Cam,8638,Pune
+138,Fitness/Recreational,Scenery,Smartphone Mount,6927,Bangalore
+139,Commuter,Safety/Dashcam,Budget Action Cam,2835,Mumbai
+140,Enthusiast/Pro,Stabilization,High-end Action Cam,30181,Delhi
+141,Enthusiast/Pro,Image Quality,360 Cam,24644,Delhi
+142,Commuter,Safety/Dashcam,Smartphone Mount,3471,Pune
+143,Commuter,Evidence,Smartphone Mount,852,Tier-2 City
+144,Commuter,Battery Life,Smartphone Mount,658,Pune
+145,Commuter,Evidence,Budget Action Cam,903,Tier-2 City
+146,Commuter,Safety/Dashcam,Smartphone Mount,1887,Tier-2 City
+147,Fitness/Recreational,Scenery,360 Cam,11295,Delhi
+148,Fitness/Recreational,Scenery,Mid-range Action Cam,9703,Pune
+149,Commuter,Safety/Dashcam,Smartphone Mount,4311,Bangalore
+150,Commuter,Evidence,Smartphone Mount,3479,Tier-2 City
+151,Enthusiast/Pro,Image Quality,360 Cam,49426,Chennai
+152,Commuter,Battery Life,Smartphone Mount,4214,Chennai
+153,Commuter,Safety/Dashcam,Smartphone Mount,3458,Bangalore
+154,Commuter,Safety/Dashcam,Smartphone Mount,4091,Chennai
+155,Enthusiast/Pro,Image Quality,High-end Action Cam,29131,Mumbai
+156,Commuter,Evidence,Budget Action Cam,874,Tier-2 City
+157,Fitness/Recreational,Social Sharing,Mid-range Action Cam,16244,Bangalore
+158,Fitness/Recreational,Social Sharing,Smartphone Mount,19139,Pune
+159,Commuter,Safety/Dashcam,Smartphone Mount,2778,Tier-2 City
+160,Fitness/Recreational,Social Sharing,Mid-range Action Cam,8814,Bangalore
+161,Commuter,Evidence,Smartphone Mount,4428,Delhi
+162,Fitness/Recreational,Social Sharing,Smartphone Mount,14444,Pune
+163,Fitness/Recreational,Social Sharing,Smartphone Mount,10543,Delhi
+164,Fitness/Recreational,Social Sharing,Smartphone Mount,11430,Tier-2 City
+165,Commuter,Battery Life,Budget Action Cam,1129,Pune
+166,Fitness/Recreational,Scenery,Smartphone Mount,10724,Chennai
+167,Commuter,Evidence,Smartphone Mount,3932,Bangalore
+168,Commuter,Safety/Dashcam,Smartphone Mount,2860,Tier-2 City
+169,Commuter,Evidence,Smartphone Mount,3692,Mumbai
+170,Fitness/Recreational,Ease of Use,Mid-range Action Cam,11116,Pune
+171,Fitness/Recreational,Social Sharing,Mid-range Action Cam,14847,Pune
+172,Commuter,Battery Life,Budget Action Cam,1119,Tier-2 City
+173,Fitness/Recreational,Ease of Use,Smartphone Mount,8953,Tier-2 City
+174,Commuter,Evidence,Smartphone Mount,1816,Delhi
+175,Fitness/Recreational,Scenery,Smartphone Mount,11262,Chennai
+176,Commuter,Battery Life,Smartphone Mount,4328,Delhi
+177,Fitness/Recreational,Ease of Use,Smartphone Mount,14200,Delhi
+178,Commuter,Battery Life,Smartphone Mount,775,Chennai
+179,Enthusiast/Pro,Data Overlay,High-end Action Cam,25370,Mumbai
+180,Commuter,Battery Life,Smartphone Mount,4812,Delhi
+181,Commuter,Evidence,Budget Action Cam,3749,Delhi
+182,Commuter,Battery Life,Smartphone Mount,4423,Pune
+183,Enthusiast/Pro,Stabilization,High-end Action Cam,32595,Chennai
+184,Enthusiast/Pro,Image Quality,High-end Action Cam,24470,Bangalore
+185,Commuter,Evidence,Smartphone Mount,1514,Mumbai
+186,Fitness/Recreational,Social Sharing,Smartphone Mount,9612,Mumbai
+187,Fitness/Recreational,Ease of Use,Smartphone Mount,17065,Chennai
+188,Fitness/Recreational,Social Sharing,Mid-range Action Cam,15666,Tier-2 City
+189,Fitness/Recreational,Scenery,Smartphone Mount,17241,Tier-2 City
+190,Commuter,Safety/Dashcam,Budget Action Cam,802,Pune
+191,Commuter,Safety/Dashcam,Smartphone Mount,2363,Pune
+192,Enthusiast/Pro,Data Overlay,360 Cam,23072,Chennai
+193,Enthusiast/Pro,Stabilization,Drone,33965,Pune
+194,Fitness/Recreational,Social Sharing,Mid-range Action Cam,15600,Mumbai
+195,Commuter,Evidence,Smartphone Mount,4533,Mumbai
+196,Commuter,Evidence,Smartphone Mount,1074,Bangalore
+197,Fitness/Recreational,Social Sharing,Mid-range Action Cam,10208,Tier-2 City
+198,Enthusiast/Pro,Data Overlay,360 Cam,39614,Chennai
+199,Enthusiast/Pro,Data Overlay,High-end Action Cam,48257,Delhi
+200,Fitness/Recreational,Social Sharing,Mid-range Action Cam,6667,Tier-2 City
+201,Fitness/Recreational,Scenery,Smartphone Mount,8553,Delhi
+202,Commuter,Evidence,Budget Action Cam,1350,Bangalore
+203,Commuter,Safety/Dashcam,Budget Action Cam,1867,Bangalore
+204,Enthusiast/Pro,Image Quality,High-end Action Cam,46200,Pune
+205,Fitness/Recreational,Social Sharing,Smartphone Mount,16339,Bangalore
+206,Commuter,Evidence,Smartphone Mount,1416,Bangalore
+207,Commuter,Battery Life,Smartphone Mount,1940,Delhi
+208,Fitness/Recreational,Social Sharing,Mid-range Action Cam,19626,Pune
+209,Commuter,Evidence,Smartphone Mount,3515,Bangalore
+210,Commuter,Evidence,Smartphone Mount,1461,Tier-2 City
+211,Fitness/Recreational,Scenery,Mid-range Action Cam,11228,Bangalore
+212,Fitness/Recreational,Scenery,360 Cam,18761,Pune
+213,Fitness/Recreational,Scenery,360 Cam,6177,Chennai
+214,Commuter,Safety/Dashcam,Smartphone Mount,4899,Pune
+215,Fitness/Recreational,Social Sharing,Smartphone Mount,19051,Delhi
+216,Commuter,Battery Life,Smartphone Mount,2890,Chennai
+217,Commuter,Evidence,Budget Action Cam,2911,Tier-2 City
+218,Fitness/Recreational,Ease of Use,Mid-range Action Cam,13212,Mumbai
+219,Fitness/Recreational,Ease of Use,Smartphone Mount,9431,Pune
+220,Fitness/Recreational,Ease of Use,Smartphone Mount,11542,Delhi
+221,Fitness/Recreational,Social Sharing,Mid-range Action Cam,9146,Tier-2 City
+222,Fitness/Recreational,Ease of Use,Smartphone Mount,5140,Chennai
+223,Commuter,Evidence,Smartphone Mount,1463,Tier-2 City
+224,Commuter,Safety/Dashcam,Smartphone Mount,4110,Pune
+225,Commuter,Safety/Dashcam,Budget Action Cam,605,Bangalore
+226,Commuter,Evidence,Budget Action Cam,4516,Pune
+227,Enthusiast/Pro,Data Overlay,High-end Action Cam,47992,Mumbai
+228,Commuter,Evidence,Smartphone Mount,3679,Pune
+229,Enthusiast/Pro,Image Quality,360 Cam,23654,Chennai
+230,Fitness/Recreational,Ease of Use,Smartphone Mount,13105,Chennai
+231,Fitness/Recreational,Social Sharing,Smartphone Mount,13227,Pune
+232,Fitness/Recreational,Scenery,Mid-range Action Cam,14600,Chennai
+233,Fitness/Recreational,Social Sharing,Mid-range Action Cam,16130,Bangalore
+234,Commuter,Safety/Dashcam,Smartphone Mount,1800,Tier-2 City
+235,Commuter,Evidence,Smartphone Mount,3597,Pune
+236,Fitness/Recreational,Social Sharing,Mid-range Action Cam,18271,Bangalore
+237,Commuter,Evidence,Smartphone Mount,3131,Tier-2 City
+238,Commuter,Safety/Dashcam,Smartphone Mount,1816,Tier-2 City
+239,Fitness/Recreational,Scenery,Mid-range Action Cam,8683,Bangalore
+240,Commuter,Battery Life,Smartphone Mount,645,Delhi
+241,Enthusiast/Pro,Stabilization,360 Cam,23040,Pune
+242,Enthusiast/Pro,Stabilization,High-end Action Cam,46160,Tier-2 City
+243,Enthusiast/Pro,Stabilization,360 Cam,49344,Tier-2 City
+244,Commuter,Battery Life,Smartphone Mount,1161,Chennai
+245,Commuter,Safety/Dashcam,Smartphone Mount,1487,Tier-2 City
+246,Enthusiast/Pro,Stabilization,High-end Action Cam,45225,Bangalore
+247,Commuter,Safety/Dashcam,Smartphone Mount,940,Tier-2 City
+248,Enthusiast/Pro,Image Quality,High-end Action Cam,37727,Delhi
+249,Enthusiast/Pro,Stabilization,High-end Action Cam,48305,Pune
+250,Enthusiast/Pro,Stabilization,High-end Action Cam,43164,Pune
+251,Commuter,Battery Life,Budget Action Cam,3851,Tier-2 City
+252,Commuter,Evidence,Smartphone Mount,1741,Mumbai
+253,Enthusiast/Pro,Image Quality,High-end Action Cam,45766,Mumbai
+254,Commuter,Safety/Dashcam,Smartphone Mount,4948,Bangalore
+255,Commuter,Battery Life,Smartphone Mount,2414,Mumbai
+256,Fitness/Recreational,Scenery,Smartphone Mount,5707,Bangalore
+257,Enthusiast/Pro,Data Overlay,High-end Action Cam,23713,Chennai
+258,Fitness/Recreational,Social Sharing,Smartphone Mount,9255,Bangalore
+259,Fitness/Recreational,Social Sharing,Smartphone Mount,6735,Mumbai
+260,Commuter,Evidence,Smartphone Mount,2928,Tier-2 City
+261,Fitness/Recreational,Scenery,Smartphone Mount,10249,Chennai
+262,Enthusiast/Pro,Stabilization,High-end Action Cam,47237,Mumbai
+263,Commuter,Safety/Dashcam,Budget Action Cam,1994,Bangalore
+264,Fitness/Recreational,Scenery,Smartphone Mount,5661,Delhi
+265,Enthusiast/Pro,Image Quality,Drone,30060,Pune
+266,Fitness/Recreational,Social Sharing,Mid-range Action Cam,14208,Mumbai
+267,Fitness/Recreational,Ease of Use,Mid-range Action Cam,7493,Bangalore
+268,Fitness/Recreational,Scenery,Smartphone Mount,16151,Chennai
+269,Commuter,Safety/Dashcam,Smartphone Mount,4219,Mumbai
+270,Commuter,Battery Life,Budget Action Cam,736,Mumbai
+271,Fitness/Recreational,Ease of Use,Smartphone Mount,17917,Pune
+272,Fitness/Recreational,Social Sharing,Mid-range Action Cam,18559,Bangalore
+273,Enthusiast/Pro,Data Overlay,360 Cam,20148,Delhi
+274,Enthusiast/Pro,Image Quality,High-end Action Cam,49127,Chennai
+275,Fitness/Recreational,Ease of Use,Mid-range Action Cam,6012,Bangalore
+276,Fitness/Recreational,Scenery,Smartphone Mount,15748,Chennai
+277,Fitness/Recreational,Scenery,Smartphone Mount,10782,Mumbai
+278,Fitness/Recreational,Scenery,Smartphone Mount,7408,Pune
+279,Fitness/Recreational,Social Sharing,Smartphone Mount,7496,Pune
+280,Fitness/Recreational,Ease of Use,Mid-range Action Cam,14917,Tier-2 City
+281,Enthusiast/Pro,Stabilization,Drone,24406,Delhi
+282,Commuter,Evidence,Budget Action Cam,2690,Pune
+283,Commuter,Evidence,Smartphone Mount,743,Mumbai
+284,Commuter,Evidence,Smartphone Mount,1060,Delhi
+285,Fitness/Recreational,Scenery,Mid-range Action Cam,10548,Bangalore
+286,Commuter,Battery Life,Smartphone Mount,4573,Pune
+287,Commuter,Evidence,Budget Action Cam,3638,Delhi
+288,Fitness/Recreational,Ease of Use,Smartphone Mount,13264,Mumbai
+289,Commuter,Battery Life,Smartphone Mount,4725,Tier-2 City
+290,Fitness/Recreational,Ease of Use,Smartphone Mount,10907,Chennai
+291,Commuter,Evidence,Smartphone Mount,2485,Chennai
+292,Commuter,Safety/Dashcam,Smartphone Mount,4759,Mumbai
+293,Fitness/Recreational,Ease of Use,Smartphone Mount,14325,Mumbai
+294,Commuter,Evidence,Budget Action Cam,3446,Chennai
+295,Commuter,Battery Life,Smartphone Mount,1548,Tier-2 City
+296,Fitness/Recreational,Social Sharing,Smartphone Mount,7964,Delhi
+297,Fitness/Recreational,Scenery,Mid-range Action Cam,18891,Chennai
+298,Commuter,Safety/Dashcam,Smartphone Mount,4723,Mumbai
+299,Fitness/Recreational,Social Sharing,360 Cam,16795,Pune
+300,Commuter,Evidence,Smartphone Mount,2994,Bangalore
+301,Commuter,Evidence,Smartphone Mount,4638,Tier-2 City
+302,Fitness/Recreational,Scenery,Mid-range Action Cam,15902,Tier-2 City
+303,Fitness/Recreational,Ease of Use,Smartphone Mount,18828,Pune
+304,Fitness/Recreational,Ease of Use,Smartphone Mount,11488,Pune
+305,Fitness/Recreational,Scenery,Smartphone Mount,5689,Mumbai
+306,Enthusiast/Pro,Data Overlay,360 Cam,45032,Chennai
+307,Fitness/Recreational,Ease of Use,Smartphone Mount,18410,Delhi
+308,Commuter,Safety/Dashcam,Smartphone Mount,4785,Tier-2 City
+309,Fitness/Recreational,Scenery,Smartphone Mount,13591,Tier-2 City
+310,Commuter,Safety/Dashcam,Smartphone Mount,2138,Pune
+311,Commuter,Safety/Dashcam,Smartphone Mount,1903,Chennai
+312,Commuter,Safety/Dashcam,Smartphone Mount,4719,Tier-2 City
+313,Commuter,Evidence,Smartphone Mount,2008,Delhi
+314,Enthusiast/Pro,Stabilization,High-end Action Cam,38428,Pune
+315,Fitness/Recreational,Ease of Use,Smartphone Mount,15331,Delhi
+316,Fitness/Recreational,Scenery,Mid-range Action Cam,14956,Chennai
+317,Commuter,Safety/Dashcam,Budget Action Cam,4981,Tier-2 City
+318,Commuter,Evidence,Smartphone Mount,2793,Bangalore
+319,Commuter,Evidence,Smartphone Mount,1400,Tier-2 City
+320,Commuter,Safety/Dashcam,Smartphone Mount,2509,Chennai
+321,Fitness/Recreational,Scenery,Mid-range Action Cam,7385,Tier-2 City
+322,Fitness/Recreational,Social Sharing,360 Cam,5163,Tier-2 City
+323,Fitness/Recreational,Social Sharing,Smartphone Mount,9795,Mumbai
+324,Commuter,Battery Life,Smartphone Mount,2855,Tier-2 City
+325,Enthusiast/Pro,Stabilization,High-end Action Cam,30749,Tier-2 City
+326,Fitness/Recreational,Scenery,Smartphone Mount,17027,Delhi
+327,Fitness/Recreational,Scenery,Smartphone Mount,19056,Bangalore
+328,Fitness/Recreational,Social Sharing,Smartphone Mount,8493,Delhi
+329,Commuter,Evidence,Budget Action Cam,2944,Delhi
+330,Commuter,Safety/Dashcam,Budget Action Cam,516,Pune
+331,Commuter,Safety/Dashcam,Budget Action Cam,1071,Mumbai
+332,Fitness/Recreational,Social Sharing,Smartphone Mount,13433,Delhi
+333,Commuter,Evidence,Smartphone Mount,2779,Chennai
+334,Commuter,Safety/Dashcam,Budget Action Cam,3349,Chennai
+335,Commuter,Battery Life,Smartphone Mount,578,Tier-2 City
+336,Commuter,Safety/Dashcam,Smartphone Mount,1355,Pune
+337,Enthusiast/Pro,Data Overlay,High-end Action Cam,27083,Mumbai
+338,Fitness/Recreational,Social Sharing,Smartphone Mount,14223,Mumbai
+339,Commuter,Safety/Dashcam,Smartphone Mount,4682,Tier-2 City
+340,Commuter,Battery Life,Smartphone Mount,4006,Chennai
+341,Commuter,Battery Life,Smartphone Mount,2168,Bangalore
+342,Commuter,Safety/Dashcam,Smartphone Mount,2450,Pune
+343,Commuter,Evidence,Budget Action Cam,4994,Tier-2 City
+344,Commuter,Battery Life,Smartphone Mount,1062,Pune
+345,Commuter,Battery Life,Smartphone Mount,1272,Chennai
+346,Fitness/Recreational,Scenery,Mid-range Action Cam,15759,Chennai
+347,Fitness/Recreational,Scenery,Smartphone Mount,18279,Bangalore
+348,Commuter,Safety/Dashcam,Smartphone Mount,4339,Bangalore
+349,Commuter,Safety/Dashcam,Budget Action Cam,3493,Mumbai
+350,Fitness/Recreational,Ease of Use,Smartphone Mount,11979,Pune
+351,Fitness/Recreational,Scenery,Smartphone Mount,17504,Pune
+352,Enthusiast/Pro,Image Quality,High-end Action Cam,26910,Chennai
+353,Fitness/Recreational,Scenery,Smartphone Mount,8747,Mumbai
+354,Commuter,Battery Life,Budget Action Cam,2921,Tier-2 City
+355,Commuter,Safety/Dashcam,Smartphone Mount,4483,Pune
+356,Fitness/Recreational,Scenery,Smartphone Mount,18070,Mumbai
+357,Commuter,Safety/Dashcam,Budget Action Cam,2730,Mumbai
+358,Fitness/Recreational,Social Sharing,Smartphone Mount,10946,Chennai
+359,Enthusiast/Pro,Image Quality,High-end Action Cam,27128,Mumbai
+360,Fitness/Recreational,Scenery,360 Cam,7461,Bangalore
+361,Commuter,Safety/Dashcam,Smartphone Mount,1185,Bangalore
+362,Fitness/Recreational,Social Sharing,Mid-range Action Cam,17258,Delhi
+363,Commuter,Evidence,Budget Action Cam,538,Chennai
+364,Fitness/Recreational,Social Sharing,Smartphone Mount,16182,Tier-2 City
+365,Enthusiast/Pro,Image Quality,360 Cam,27165,Delhi
+366,Commuter,Safety/Dashcam,Budget Action Cam,801,Bangalore
+367,Enthusiast/Pro,Image Quality,360 Cam,34571,Delhi
+368,Enthusiast/Pro,Stabilization,High-end Action Cam,45237,Chennai
+369,Commuter,Battery Life,Smartphone Mount,4368,Chennai
+370,Commuter,Safety/Dashcam,Smartphone Mount,4808,Mumbai
+371,Commuter,Battery Life,Smartphone Mount,4178,Pune
+372,Commuter,Battery Life,Smartphone Mount,4683,Mumbai
+373,Commuter,Safety/Dashcam,Smartphone Mount,2968,Chennai
+374,Fitness/Recreational,Social Sharing,Mid-range Action Cam,13706,Bangalore
+375,Commuter,Battery Life,Smartphone Mount,522,Tier-2 City
+376,Commuter,Safety/Dashcam,Smartphone Mount,1804,Bangalore
+377,Fitness/Recreational,Social Sharing,Smartphone Mount,13553,Mumbai
+378,Commuter,Evidence,Smartphone Mount,1784,Tier-2 City
+379,Fitness/Recreational,Ease of Use,360 Cam,18794,Chennai
+380,Commuter,Evidence,Smartphone Mount,3020,Bangalore
+381,Commuter,Evidence,Budget Action Cam,1422,Chennai
+382,Fitness/Recreational,Scenery,Smartphone Mount,10132,Tier-2 City
+383,Fitness/Recreational,Social Sharing,Mid-range Action Cam,19933,Tier-2 City
+384,Enthusiast/Pro,Image Quality,360 Cam,30805,Bangalore
+385,Fitness/Recreational,Social Sharing,Smartphone Mount,18944,Chennai
+386,Fitness/Recreational,Scenery,Mid-range Action Cam,7634,Delhi
+387,Commuter,Battery Life,Budget Action Cam,4395,Chennai
+388,Commuter,Battery Life,Budget Action Cam,2679,Tier-2 City
+389,Fitness/Recreational,Ease of Use,Smartphone Mount,14235,Chennai
+390,Fitness/Recreational,Scenery,Mid-range Action Cam,5226,Mumbai
+391,Enthusiast/Pro,Image Quality,High-end Action Cam,25588,Delhi
+392,Commuter,Evidence,Smartphone Mount,2952,Pune
+393,Commuter,Evidence,Smartphone Mount,4783,Mumbai
+394,Fitness/Recreational,Social Sharing,Smartphone Mount,15512,Pune
+395,Commuter,Battery Life,Budget Action Cam,3792,Bangalore
+396,Enthusiast/Pro,Image Quality,360 Cam,36100,Pune
+397,Enthusiast/Pro,Image Quality,High-end Action Cam,47523,Chennai
+398,Commuter,Evidence,Smartphone Mount,1093,Pune
+399,Fitness/Recreational,Ease of Use,Smartphone Mount,17347,Tier-2 City
+400,Fitness/Recreational,Ease of Use,Smartphone Mount,10997,Mumbai
+401,Commuter,Battery Life,Smartphone Mount,1632,Mumbai
+402,Enthusiast/Pro,Image Quality,Drone,33428,Pune
+403,Fitness/Recreational,Ease of Use,Mid-range Action Cam,15258,Mumbai
+404,Fitness/Recreational,Social Sharing,Smartphone Mount,17470,Tier-2 City
+405,Commuter,Safety/Dashcam,Smartphone Mount,1669,Mumbai
+406,Enthusiast/Pro,Stabilization,High-end Action Cam,39194,Pune
+407,Commuter,Battery Life,Budget Action Cam,1519,Delhi
+408,Commuter,Evidence,Smartphone Mount,2948,Delhi
+409,Enthusiast/Pro,Image Quality,360 Cam,49742,Bangalore
+410,Commuter,Battery Life,Smartphone Mount,2625,Mumbai
+411,Commuter,Battery Life,Budget Action Cam,3971,Pune
+412,Enthusiast/Pro,Data Overlay,High-end Action Cam,28329,Mumbai
+413,Enthusiast/Pro,Image Quality,High-end Action Cam,33930,Chennai
+414,Fitness/Recreational,Social Sharing,Mid-range Action Cam,19316,Tier-2 City
+415,Fitness/Recreational,Scenery,Mid-range Action Cam,6900,Mumbai
+416,Commuter,Battery Life,Budget Action Cam,1949,Mumbai
+417,Commuter,Battery Life,Smartphone Mount,2503,Delhi
+418,Commuter,Safety/Dashcam,Smartphone Mount,1203,Tier-2 City
+419,Fitness/Recreational,Social Sharing,Mid-range Action Cam,14817,Pune
+420,Fitness/Recreational,Scenery,Mid-range Action Cam,10105,Mumbai
+421,Fitness/Recreational,Ease of Use,Smartphone Mount,8384,Delhi
+422,Fitness/Recreational,Scenery,Smartphone Mount,5685,Bangalore
+423,Commuter,Safety/Dashcam,Budget Action Cam,1931,Tier-2 City
+424,Commuter,Evidence,Smartphone Mount,1743,Delhi
+425,Commuter,Battery Life,Smartphone Mount,3791,Delhi
+426,Fitness/Recreational,Scenery,Smartphone Mount,16663,Delhi
+427,Commuter,Evidence,Smartphone Mount,704,Mumbai
+428,Enthusiast/Pro,Image Quality,High-end Action Cam,25347,Mumbai
+429,Commuter,Battery Life,Smartphone Mount,2797,Bangalore
+430,Commuter,Battery Life,Smartphone Mount,1189,Chennai
+431,Commuter,Safety/Dashcam,Budget Action Cam,3641,Chennai
+432,Fitness/Recreational,Ease of Use,Smartphone Mount,5671,Chennai
+433,Fitness/Recreational,Ease of Use,360 Cam,16918,Tier-2 City
+434,Commuter,Battery Life,Smartphone Mount,4237,Tier-2 City
+435,Commuter,Evidence,Budget Action Cam,2861,Bangalore
+436,Fitness/Recreational,Social Sharing,Smartphone Mount,8670,Tier-2 City
+437,Commuter,Evidence,Smartphone Mount,2852,Chennai
+438,Fitness/Recreational,Ease of Use,Smartphone Mount,18140,Chennai
+439,Fitness/Recreational,Social Sharing,Smartphone Mount,11304,Delhi
+440,Commuter,Evidence,Budget Action Cam,1394,Tier-2 City
+441,Commuter,Evidence,Smartphone Mount,1097,Mumbai
+442,Enthusiast/Pro,Stabilization,High-end Action Cam,29879,Mumbai
+443,Commuter,Safety/Dashcam,Smartphone Mount,2590,Delhi
+444,Commuter,Safety/Dashcam,Budget Action Cam,4772,Delhi
+445,Fitness/Recreational,Social Sharing,Mid-range Action Cam,6517,Delhi
+446,Enthusiast/Pro,Image Quality,360 Cam,35177,Mumbai
+447,Enthusiast/Pro,Data Overlay,High-end Action Cam,34357,Chennai
+448,Fitness/Recreational,Social Sharing,Mid-range Action Cam,5097,Delhi
+449,Commuter,Battery Life,Smartphone Mount,3657,Bangalore
+450,Commuter,Battery Life,Smartphone Mount,1110,Delhi
+451,Fitness/Recreational,Ease of Use,Mid-range Action Cam,10055,Pune
+452,Fitness/Recreational,Ease of Use,Mid-range Action Cam,14369,Delhi
+453,Commuter,Battery Life,Budget Action Cam,3291,Mumbai
+454,Enthusiast/Pro,Data Overlay,360 Cam,47251,Tier-2 City
+455,Commuter,Evidence,Smartphone Mount,3548,Delhi
+456,Commuter,Evidence,Budget Action Cam,2613,Tier-2 City
+457,Commuter,Safety/Dashcam,Smartphone Mount,4470,Pune
+458,Commuter,Safety/Dashcam,Smartphone Mount,2774,Bangalore
+459,Commuter,Evidence,Smartphone Mount,2314,Tier-2 City
+460,Commuter,Safety/Dashcam,Smartphone Mount,4902,Chennai
+461,Commuter,Battery Life,Smartphone Mount,4157,Delhi
+462,Fitness/Recreational,Social Sharing,Mid-range Action Cam,12239,Pune
+463,Fitness/Recreational,Ease of Use,Mid-range Action Cam,13078,Pune
+464,Fitness/Recreational,Scenery,Mid-range Action Cam,19889,Tier-2 City
+465,Enthusiast/Pro,Image Quality,360 Cam,39206,Bangalore
+466,Commuter,Battery Life,Smartphone Mount,782,Mumbai
+467,Commuter,Evidence,Smartphone Mount,3476,Delhi
+468,Enthusiast/Pro,Data Overlay,High-end Action Cam,20612,Pune
+469,Commuter,Battery Life,Smartphone Mount,3513,Bangalore
+470,Enthusiast/Pro,Image Quality,High-end Action Cam,22591,Chennai
+471,Commuter,Safety/Dashcam,Budget Action Cam,4458,Pune
+472,Enthusiast/Pro,Data Overlay,High-end Action Cam,30102,Bangalore
+473,Commuter,Safety/Dashcam,Smartphone Mount,4864,Mumbai
+474,Enthusiast/Pro,Image Quality,High-end Action Cam,21125,Mumbai
+475,Fitness/Recreational,Scenery,Smartphone Mount,13438,Pune
+476,Enthusiast/Pro,Stabilization,360 Cam,42658,Pune
+477,Commuter,Safety/Dashcam,Smartphone Mount,2439,Tier-2 City
+478,Fitness/Recreational,Scenery,Smartphone Mount,16261,Delhi
+479,Enthusiast/Pro,Data Overlay,Drone,31739,Bangalore
+480,Fitness/Recreational,Social Sharing,Smartphone Mount,16749,Pune
+481,Fitness/Recreational,Scenery,Smartphone Mount,12544,Delhi
+482,Fitness/Recreational,Ease of Use,360 Cam,18675,Tier-2 City
+483,Commuter,Safety/Dashcam,Smartphone Mount,1654,Delhi
+484,Fitness/Recreational,Scenery,Smartphone Mount,8348,Pune
+485,Fitness/Recreational,Scenery,Smartphone Mount,14172,Mumbai
+486,Enthusiast/Pro,Stabilization,High-end Action Cam,32328,Bangalore
+487,Commuter,Battery Life,Smartphone Mount,1598,Bangalore
+488,Commuter,Safety/Dashcam,Smartphone Mount,1395,Mumbai
+489,Enthusiast/Pro,Image Quality,360 Cam,43147,Pune
+490,Enthusiast/Pro,Stabilization,360 Cam,29122,Bangalore
+491,Commuter,Safety/Dashcam,Smartphone Mount,1589,Pune
+492,Fitness/Recreational,Ease of Use,Mid-range Action Cam,5155,Tier-2 City
+493,Commuter,Battery Life,Smartphone Mount,4719,Pune
+494,Commuter,Safety/Dashcam,Budget Action Cam,1354,Delhi
+495,Commuter,Battery Life,Smartphone Mount,941,Mumbai
+496,Commuter,Safety/Dashcam,Smartphone Mount,1836,Pune
+497,Fitness/Recreational,Social Sharing,Smartphone Mount,13179,Tier-2 City
+498,Commuter,Evidence,Budget Action Cam,892,Chennai
+499,Enthusiast/Pro,Stabilization,High-end Action Cam,43758,Mumbai
+500,Enthusiast/Pro,Image Quality,360 Cam,41125,Bangalore
+501,Fitness/Recreational,Ease of Use,Smartphone Mount,14658,Delhi
+502,Fitness/Recreational,Ease of Use,Smartphone Mount,11701,Bangalore
+503,Commuter,Evidence,Smartphone Mount,1339,Tier-2 City
+504,Fitness/Recreational,Scenery,Smartphone Mount,10661,Tier-2 City
+505,Fitness/Recreational,Ease of Use,Smartphone Mount,13787,Bangalore
+506,Commuter,Safety/Dashcam,Smartphone Mount,4865,Mumbai
+507,Enthusiast/Pro,Image Quality,Drone,41141,Bangalore
+508,Fitness/Recreational,Social Sharing,Smartphone Mount,7946,Pune
+509,Enthusiast/Pro,Image Quality,360 Cam,46907,Bangalore
+510,Fitness/Recreational,Social Sharing,360 Cam,12230,Delhi
+511,Fitness/Recreational,Social Sharing,Smartphone Mount,18686,Delhi
+512,Commuter,Safety/Dashcam,Smartphone Mount,3490,Chennai
+513,Enthusiast/Pro,Image Quality,High-end Action Cam,21460,Delhi
+514,Enthusiast/Pro,Data Overlay,High-end Action Cam,30704,Bangalore
+515,Commuter,Evidence,Smartphone Mount,3947,Delhi
+516,Commuter,Safety/Dashcam,Budget Action Cam,2262,Mumbai
+517,Commuter,Safety/Dashcam,Smartphone Mount,2769,Delhi
+518,Fitness/Recreational,Social Sharing,Smartphone Mount,13259,Pune
+519,Enthusiast/Pro,Image Quality,360 Cam,44173,Mumbai
+520,Commuter,Evidence,Budget Action Cam,3698,Chennai
+521,Fitness/Recreational,Ease of Use,Smartphone Mount,7524,Pune
+522,Commuter,Evidence,Budget Action Cam,2193,Bangalore
+523,Enthusiast/Pro,Stabilization,High-end Action Cam,49165,Bangalore
+524,Fitness/Recreational,Scenery,Mid-range Action Cam,5660,Bangalore
+525,Fitness/Recreational,Social Sharing,Smartphone Mount,17132,Pune
+526,Commuter,Battery Life,Smartphone Mount,2544,Pune
+527,Commuter,Safety/Dashcam,Budget Action Cam,1558,Pune
+528,Commuter,Safety/Dashcam,Smartphone Mount,3027,Mumbai
+529,Commuter,Safety/Dashcam,Smartphone Mount,842,Tier-2 City
+530,Enthusiast/Pro,Stabilization,High-end Action Cam,26581,Mumbai
+531,Fitness/Recreational,Scenery,Mid-range Action Cam,15088,Bangalore
+532,Enthusiast/Pro,Stabilization,360 Cam,43132,Tier-2 City
+533,Enthusiast/Pro,Image Quality,360 Cam,44370,Delhi
+534,Fitness/Recreational,Scenery,Mid-range Action Cam,8740,Bangalore
+535,Fitness/Recreational,Ease of Use,Smartphone Mount,6478,Chennai
+536,Enthusiast/Pro,Image Quality,360 Cam,28770,Mumbai
+537,Fitness/Recreational,Scenery,Smartphone Mount,7007,Pune
+538,Commuter,Evidence,Smartphone Mount,2292,Mumbai
+539,Commuter,Battery Life,Smartphone Mount,2761,Pune
+540,Commuter,Safety/Dashcam,Smartphone Mount,4857,Tier-2 City
+541,Enthusiast/Pro,Image Quality,Drone,33778,Chennai
+542,Fitness/Recreational,Scenery,360 Cam,15332,Tier-2 City
+543,Commuter,Safety/Dashcam,Smartphone Mount,641,Chennai
+544,Fitness/Recreational,Ease of Use,Smartphone Mount,19163,Mumbai
+545,Fitness/Recreational,Social Sharing,Mid-range Action Cam,10093,Pune
+546,Commuter,Safety/Dashcam,Smartphone Mount,1713,Tier-2 City
+547,Commuter,Battery Life,Budget Action Cam,840,Chennai
+548,Fitness/Recreational,Social Sharing,Mid-range Action Cam,17605,Bangalore
+549,Fitness/Recreational,Scenery,Smartphone Mount,15621,Bangalore
+550,Fitness/Recreational,Social Sharing,Smartphone Mount,18860,Tier-2 City
+551,Fitness/Recreational,Social Sharing,Mid-range Action Cam,5855,Pune
+552,Enthusiast/Pro,Data Overlay,High-end Action Cam,36294,Tier-2 City
+553,Fitness/Recreational,Ease of Use,Mid-range Action Cam,9492,Mumbai
+554,Fitness/Recreational,Ease of Use,Smartphone Mount,10002,Chennai
+555,Enthusiast/Pro,Data Overlay,Drone,40012,Mumbai
+556,Commuter,Safety/Dashcam,Smartphone Mount,518,Bangalore
+557,Commuter,Safety/Dashcam,Budget Action Cam,3839,Chennai
+558,Commuter,Safety/Dashcam,Smartphone Mount,3872,Tier-2 City
+559,Fitness/Recreational,Scenery,360 Cam,8321,Mumbai
+560,Fitness/Recreational,Social Sharing,Smartphone Mount,18146,Delhi
+561,Fitness/Recreational,Scenery,Smartphone Mount,8052,Pune
+562,Commuter,Battery Life,Smartphone Mount,2375,Pune
+563,Commuter,Evidence,Smartphone Mount,1489,Delhi
+564,Commuter,Safety/Dashcam,Smartphone Mount,1093,Bangalore
+565,Commuter,Safety/Dashcam,Smartphone Mount,2959,Chennai
+566,Fitness/Recreational,Social Sharing,Smartphone Mount,16641,Pune
+567,Commuter,Battery Life,Smartphone Mount,4506,Delhi
+568,Commuter,Evidence,Smartphone Mount,4700,Tier-2 City
+569,Enthusiast/Pro,Image Quality,High-end Action Cam,30058,Delhi
+570,Commuter,Safety/Dashcam,Smartphone Mount,4805,Bangalore
+571,Fitness/Recreational,Ease of Use,360 Cam,12544,Bangalore
+572,Fitness/Recreational,Ease of Use,Mid-range Action Cam,8155,Mumbai
+573,Commuter,Evidence,Smartphone Mount,4085,Pune
+574,Fitness/Recreational,Social Sharing,Smartphone Mount,11031,Mumbai
+575,Enthusiast/Pro,Image Quality,High-end Action Cam,33392,Delhi
+576,Enthusiast/Pro,Data Overlay,High-end Action Cam,38850,Chennai
+577,Commuter,Battery Life,Smartphone Mount,2498,Chennai
+578,Enthusiast/Pro,Image Quality,Drone,24669,Bangalore
+579,Commuter,Safety/Dashcam,Smartphone Mount,1931,Chennai
+580,Commuter,Safety/Dashcam,Smartphone Mount,2824,Chennai
+581,Commuter,Evidence,Budget Action Cam,3158,Chennai
+582,Enthusiast/Pro,Data Overlay,High-end Action Cam,24020,Delhi
+583,Commuter,Evidence,Budget Action Cam,3759,Chennai
+584,Commuter,Evidence,Smartphone Mount,2742,Tier-2 City
+585,Fitness/Recreational,Ease of Use,Mid-range Action Cam,7070,Chennai
+586,Commuter,Battery Life,Smartphone Mount,2541,Chennai
+587,Commuter,Battery Life,Smartphone Mount,2135,Mumbai
+588,Commuter,Safety/Dashcam,Smartphone Mount,3861,Delhi
+589,Commuter,Safety/Dashcam,Smartphone Mount,2091,Bangalore
+590,Commuter,Safety/Dashcam,Smartphone Mount,3719,Mumbai
+591,Commuter,Battery Life,Smartphone Mount,1413,Pune
+592,Fitness/Recreational,Ease of Use,Smartphone Mount,18790,Delhi
+593,Commuter,Battery Life,Smartphone Mount,3428,Tier-2 City
+594,Commuter,Evidence,Budget Action Cam,1429,Delhi
+595,Enthusiast/Pro,Image Quality,High-end Action Cam,35747,Pune
+596,Commuter,Safety/Dashcam,Smartphone Mount,1899,Pune
+597,Fitness/Recreational,Ease of Use,Mid-range Action Cam,9652,Pune
+598,Commuter,Evidence,Smartphone Mount,4958,Bangalore
+599,Commuter,Battery Life,Smartphone Mount,2341,Chennai
+600,Commuter,Evidence,Budget Action Cam,1410,Delhi
+601,Commuter,Safety/Dashcam,Smartphone Mount,2669,Chennai
+602,Commuter,Safety/Dashcam,Smartphone Mount,623,Chennai
+603,Commuter,Safety/Dashcam,Smartphone Mount,1285,Tier-2 City
+604,Commuter,Safety/Dashcam,Budget Action Cam,4672,Pune
+605,Commuter,Battery Life,Budget Action Cam,2436,Bangalore
+606,Commuter,Safety/Dashcam,Budget Action Cam,1801,Tier-2 City
+607,Commuter,Safety/Dashcam,Smartphone Mount,2852,Mumbai
+608,Commuter,Safety/Dashcam,Smartphone Mount,2890,Bangalore
+609,Fitness/Recreational,Ease of Use,Smartphone Mount,14569,Chennai
+610,Fitness/Recreational,Social Sharing,Smartphone Mount,5340,Bangalore
+611,Commuter,Evidence,Smartphone Mount,2056,Pune
+612,Fitness/Recreational,Ease of Use,Mid-range Action Cam,14714,Mumbai
+613,Fitness/Recreational,Social Sharing,Mid-range Action Cam,14495,Pune
+614,Commuter,Safety/Dashcam,Smartphone Mount,1634,Mumbai
+615,Enthusiast/Pro,Image Quality,High-end Action Cam,26652,Tier-2 City
+616,Enthusiast/Pro,Data Overlay,360 Cam,44401,Chennai
+617,Commuter,Evidence,Smartphone Mount,3334,Mumbai
+618,Commuter,Safety/Dashcam,Budget Action Cam,3067,Mumbai
+619,Fitness/Recreational,Social Sharing,Smartphone Mount,15403,Mumbai
+620,Fitness/Recreational,Scenery,Smartphone Mount,11207,Bangalore
+621,Commuter,Battery Life,Budget Action Cam,766,Tier-2 City
+622,Commuter,Evidence,Smartphone Mount,3711,Bangalore
+623,Commuter,Evidence,Smartphone Mount,2010,Chennai
+624,Commuter,Safety/Dashcam,Budget Action Cam,2460,Mumbai
+625,Fitness/Recreational,Scenery,Smartphone Mount,18893,Tier-2 City
+626,Commuter,Safety/Dashcam,Budget Action Cam,3167,Tier-2 City
+627,Commuter,Evidence,Smartphone Mount,2110,Delhi
+628,Fitness/Recreational,Social Sharing,Mid-range Action Cam,7454,Chennai
+629,Commuter,Battery Life,Smartphone Mount,3308,Tier-2 City
+630,Commuter,Battery Life,Smartphone Mount,4302,Mumbai
+631,Fitness/Recreational,Scenery,Smartphone Mount,10806,Mumbai
+632,Enthusiast/Pro,Stabilization,High-end Action Cam,29094,Tier-2 City
+633,Fitness/Recreational,Social Sharing,Smartphone Mount,15750,Bangalore
+634,Fitness/Recreational,Social Sharing,Smartphone Mount,12084,Chennai
+635,Commuter,Safety/Dashcam,Smartphone Mount,4435,Mumbai
+636,Commuter,Battery Life,Smartphone Mount,2990,Tier-2 City
+637,Fitness/Recreational,Social Sharing,Mid-range Action Cam,12661,Mumbai
+638,Commuter,Safety/Dashcam,Budget Action Cam,3267,Tier-2 City
+639,Commuter,Evidence,Smartphone Mount,3920,Chennai
+640,Commuter,Evidence,Budget Action Cam,4137,Tier-2 City
+641,Commuter,Evidence,Smartphone Mount,4721,Delhi
+642,Commuter,Safety/Dashcam,Smartphone Mount,4252,Tier-2 City
+643,Commuter,Battery Life,Smartphone Mount,4652,Tier-2 City
+644,Commuter,Evidence,Smartphone Mount,4614,Chennai
+645,Commuter,Evidence,Smartphone Mount,4708,Tier-2 City
+646,Enthusiast/Pro,Stabilization,High-end Action Cam,32866,Chennai
+647,Fitness/Recreational,Social Sharing,Smartphone Mount,14764,Delhi
+648,Fitness/Recreational,Social Sharing,Smartphone Mount,9236,Chennai
+649,Fitness/Recreational,Social Sharing,Mid-range Action Cam,13392,Mumbai
+650,Commuter,Battery Life,Budget Action Cam,2741,Chennai
+651,Commuter,Battery Life,Smartphone Mount,3836,Delhi
+652,Fitness/Recreational,Scenery,Smartphone Mount,12427,Pune
+653,Fitness/Recreational,Scenery,Smartphone Mount,6098,Tier-2 City
+654,Fitness/Recreational,Ease of Use,Mid-range Action Cam,14101,Chennai
+655,Commuter,Safety/Dashcam,Budget Action Cam,2592,Tier-2 City
+656,Commuter,Safety/Dashcam,Smartphone Mount,857,Bangalore
+657,Commuter,Evidence,Smartphone Mount,2922,Mumbai
+658,Commuter,Evidence,Budget Action Cam,1997,Mumbai
+659,Fitness/Recreational,Social Sharing,Mid-range Action Cam,19238,Bangalore
+660,Fitness/Recreational,Scenery,Smartphone Mount,7951,Bangalore
+661,Commuter,Battery Life,Budget Action Cam,4465,Chennai
+662,Enthusiast/Pro,Stabilization,Drone,22780,Bangalore
+663,Fitness/Recreational,Ease of Use,Smartphone Mount,7368,Pune
+664,Commuter,Safety/Dashcam,Smartphone Mount,936,Tier-2 City
+665,Commuter,Safety/Dashcam,Smartphone Mount,4358,Tier-2 City
+666,Commuter,Safety/Dashcam,Budget Action Cam,2884,Delhi
+667,Commuter,Battery Life,Smartphone Mount,2089,Bangalore
+668,Commuter,Evidence,Smartphone Mount,1511,Bangalore
+669,Commuter,Safety/Dashcam,Budget Action Cam,2807,Pune
+670,Commuter,Safety/Dashcam,Budget Action Cam,1535,Mumbai
+671,Commuter,Battery Life,Smartphone Mount,4949,Mumbai
+672,Enthusiast/Pro,Stabilization,High-end Action Cam,34027,Tier-2 City
+673,Commuter,Safety/Dashcam,Smartphone Mount,1764,Tier-2 City
+674,Fitness/Recreational,Scenery,Mid-range Action Cam,6809,Chennai
+675,Commuter,Evidence,Budget Action Cam,3914,Pune
+676,Enthusiast/Pro,Image Quality,High-end Action Cam,22437,Delhi
+677,Commuter,Safety/Dashcam,Budget Action Cam,1167,Delhi
+678,Commuter,Battery Life,Budget Action Cam,4732,Pune
+679,Enthusiast/Pro,Stabilization,360 Cam,25571,Delhi
+680,Enthusiast/Pro,Image Quality,360 Cam,30380,Mumbai
+681,Fitness/Recreational,Ease of Use,360 Cam,15863,Delhi
+682,Commuter,Battery Life,Smartphone Mount,970,Delhi
+683,Commuter,Evidence,Smartphone Mount,4399,Pune
+684,Fitness/Recreational,Ease of Use,Mid-range Action Cam,12094,Pune
+685,Enthusiast/Pro,Image Quality,High-end Action Cam,40180,Delhi
+686,Fitness/Recreational,Social Sharing,Mid-range Action Cam,18412,Bangalore
+687,Fitness/Recreational,Social Sharing,Smartphone Mount,5522,Pune
+688,Commuter,Safety/Dashcam,Smartphone Mount,2129,Chennai
+689,Fitness/Recreational,Social Sharing,Smartphone Mount,12122,Chennai
+690,Commuter,Battery Life,Smartphone Mount,3357,Mumbai
+691,Commuter,Safety/Dashcam,Smartphone Mount,3087,Delhi
+692,Commuter,Safety/Dashcam,Smartphone Mount,2019,Bangalore
+693,Fitness/Recreational,Scenery,Mid-range Action Cam,13418,Mumbai
+694,Commuter,Safety/Dashcam,Smartphone Mount,4572,Delhi
+695,Commuter,Safety/Dashcam,Smartphone Mount,896,Pune
+696,Fitness/Recreational,Ease of Use,Mid-range Action Cam,17936,Chennai
+697,Commuter,Safety/Dashcam,Budget Action Cam,4393,Tier-2 City
+698,Fitness/Recreational,Scenery,Smartphone Mount,15860,Bangalore
+699,Commuter,Battery Life,Smartphone Mount,661,Tier-2 City
+700,Commuter,Safety/Dashcam,Smartphone Mount,1439,Chennai
+701,Fitness/Recreational,Social Sharing,Mid-range Action Cam,18109,Tier-2 City
+702,Commuter,Evidence,Smartphone Mount,4104,Pune
+703,Commuter,Battery Life,Smartphone Mount,2596,Delhi
+704,Commuter,Evidence,Budget Action Cam,2600,Pune
+705,Commuter,Evidence,Smartphone Mount,4248,Tier-2 City
+706,Enthusiast/Pro,Image Quality,High-end Action Cam,30197,Pune
+707,Commuter,Safety/Dashcam,Smartphone Mount,1174,Chennai
+708,Fitness/Recreational,Social Sharing,Mid-range Action Cam,7661,Bangalore
+709,Commuter,Safety/Dashcam,Budget Action Cam,4766,Pune
+710,Fitness/Recreational,Social Sharing,360 Cam,8259,Chennai
+711,Fitness/Recreational,Scenery,Mid-range Action Cam,8923,Bangalore
+712,Fitness/Recreational,Ease of Use,Mid-range Action Cam,16950,Delhi
+713,Commuter,Safety/Dashcam,Smartphone Mount,3245,Tier-2 City
+714,Commuter,Battery Life,Smartphone Mount,2722,Delhi
+715,Commuter,Evidence,Smartphone Mount,3962,Mumbai
+716,Enthusiast/Pro,Data Overlay,High-end Action Cam,42582,Chennai
+717,Fitness/Recreational,Scenery,Smartphone Mount,17088,Bangalore
+718,Enthusiast/Pro,Image Quality,High-end Action Cam,20719,Pune
+719,Commuter,Battery Life,Smartphone Mount,1472,Delhi
+720,Fitness/Recreational,Ease of Use,Mid-range Action Cam,9402,Bangalore
+721,Enthusiast/Pro,Data Overlay,High-end Action Cam,43303,Chennai
+722,Commuter,Safety/Dashcam,Smartphone Mount,4075,Mumbai
+723,Commuter,Safety/Dashcam,Smartphone Mount,1143,Delhi
+724,Fitness/Recreational,Ease of Use,Mid-range Action Cam,7204,Tier-2 City
+725,Fitness/Recreational,Scenery,Mid-range Action Cam,8276,Bangalore
+726,Fitness/Recreational,Ease of Use,Smartphone Mount,14433,Tier-2 City
+727,Commuter,Evidence,Budget Action Cam,1130,Bangalore
+728,Fitness/Recreational,Social Sharing,Mid-range Action Cam,14171,Bangalore
+729,Commuter,Evidence,Smartphone Mount,4371,Chennai
+730,Commuter,Evidence,Smartphone Mount,3770,Chennai
+731,Commuter,Evidence,Budget Action Cam,960,Chennai
+732,Fitness/Recreational,Social Sharing,Mid-range Action Cam,18379,Pune
+733,Fitness/Recreational,Ease of Use,Smartphone Mount,6994,Bangalore
+734,Fitness/Recreational,Ease of Use,Mid-range Action Cam,11707,Delhi
+735,Commuter,Evidence,Smartphone Mount,2223,Tier-2 City
+736,Enthusiast/Pro,Data Overlay,360 Cam,34824,Chennai
+737,Commuter,Evidence,Smartphone Mount,2276,Chennai
+738,Fitness/Recreational,Scenery,Smartphone Mount,10939,Tier-2 City
+739,Commuter,Safety/Dashcam,Smartphone Mount,2196,Tier-2 City
+740,Commuter,Evidence,Smartphone Mount,4309,Bangalore
+741,Commuter,Battery Life,Smartphone Mount,3000,Chennai
+742,Commuter,Evidence,Smartphone Mount,3145,Tier-2 City
+743,Fitness/Recreational,Scenery,Smartphone Mount,15541,Pune
+744,Fitness/Recreational,Social Sharing,Smartphone Mount,19338,Pune
+745,Commuter,Evidence,Budget Action Cam,3067,Chennai
+746,Enthusiast/Pro,Data Overlay,High-end Action Cam,47808,Tier-2 City
+747,Commuter,Safety/Dashcam,Budget Action Cam,2880,Bangalore
+748,Fitness/Recreational,Scenery,Mid-range Action Cam,18979,Bangalore
+749,Enthusiast/Pro,Image Quality,High-end Action Cam,32867,Bangalore
+750,Fitness/Recreational,Ease of Use,Smartphone Mount,7743,Mumbai
+751,Commuter,Battery Life,Budget Action Cam,856,Chennai
+752,Enthusiast/Pro,Data Overlay,Drone,26102,Bangalore
+753,Fitness/Recreational,Ease of Use,Smartphone Mount,15193,Pune
+754,Commuter,Evidence,Smartphone Mount,1119,Tier-2 City
+755,Commuter,Battery Life,Budget Action Cam,3925,Delhi
+756,Fitness/Recreational,Social Sharing,360 Cam,13436,Delhi
+757,Fitness/Recreational,Scenery,360 Cam,13711,Bangalore
+758,Fitness/Recreational,Social Sharing,Mid-range Action Cam,15717,Delhi
+759,Enthusiast/Pro,Stabilization,High-end Action Cam,43978,Delhi
+760,Fitness/Recreational,Ease of Use,Mid-range Action Cam,8667,Mumbai
+761,Commuter,Evidence,Budget Action Cam,585,Pune
+762,Commuter,Safety/Dashcam,Budget Action Cam,4119,Pune
+763,Commuter,Safety/Dashcam,Smartphone Mount,4509,Mumbai
+764,Fitness/Recreational,Ease of Use,Mid-range Action Cam,19039,Mumbai
+765,Commuter,Evidence,Smartphone Mount,2869,Delhi
+766,Fitness/Recreational,Ease of Use,Mid-range Action Cam,10722,Chennai
+767,Fitness/Recreational,Scenery,Smartphone Mount,16128,Tier-2 City
+768,Enthusiast/Pro,Data Overlay,High-end Action Cam,38060,Tier-2 City
+769,Commuter,Safety/Dashcam,Smartphone Mount,1961,Delhi
+770,Fitness/Recreational,Ease of Use,360 Cam,18810,Tier-2 City
+771,Commuter,Safety/Dashcam,Smartphone Mount,3152,Mumbai
+772,Fitness/Recreational,Ease of Use,Smartphone Mount,14171,Pune
+773,Commuter,Safety/Dashcam,Smartphone Mount,4196,Tier-2 City
+774,Commuter,Battery Life,Smartphone Mount,3265,Delhi
+775,Fitness/Recreational,Social Sharing,Mid-range Action Cam,13307,Chennai
+776,Commuter,Safety/Dashcam,Smartphone Mount,3662,Delhi
+777,Commuter,Evidence,Smartphone Mount,2661,Bangalore
+778,Fitness/Recreational,Social Sharing,Smartphone Mount,19188,Delhi
+779,Fitness/Recreational,Ease of Use,Mid-range Action Cam,8786,Mumbai
+780,Fitness/Recreational,Social Sharing,Smartphone Mount,6913,Pune
+781,Fitness/Recreational,Social Sharing,Smartphone Mount,15593,Pune
+782,Fitness/Recreational,Social Sharing,Smartphone Mount,18891,Tier-2 City
+783,Commuter,Safety/Dashcam,Budget Action Cam,3371,Mumbai
+784,Commuter,Battery Life,Smartphone Mount,3135,Bangalore
+785,Commuter,Evidence,Budget Action Cam,1632,Mumbai
+786,Enthusiast/Pro,Stabilization,360 Cam,26297,Delhi
+787,Fitness/Recreational,Social Sharing,Smartphone Mount,7179,Mumbai
+788,Commuter,Battery Life,Smartphone Mount,1922,Mumbai
+789,Commuter,Evidence,Smartphone Mount,4816,Bangalore
+790,Enthusiast/Pro,Data Overlay,High-end Action Cam,48783,Delhi
+791,Commuter,Battery Life,Smartphone Mount,4065,Chennai
+792,Fitness/Recreational,Social Sharing,Smartphone Mount,19201,Chennai
+793,Fitness/Recreational,Ease of Use,Mid-range Action Cam,19208,Pune
+794,Fitness/Recreational,Ease of Use,Smartphone Mount,16546,Tier-2 City
+795,Commuter,Battery Life,Smartphone Mount,4107,Mumbai
+796,Enthusiast/Pro,Image Quality,360 Cam,36673,Pune
+797,Enthusiast/Pro,Data Overlay,High-end Action Cam,23252,Bangalore
+798,Fitness/Recreational,Ease of Use,360 Cam,9958,Chennai
+799,Fitness/Recreational,Scenery,Mid-range Action Cam,9776,Mumbai
+800,Enthusiast/Pro,Data Overlay,High-end Action Cam,45275,Bangalore
+801,Fitness/Recreational,Scenery,Smartphone Mount,17088,Tier-2 City
+802,Commuter,Evidence,Smartphone Mount,3656,Bangalore
+803,Fitness/Recreational,Social Sharing,Smartphone Mount,13575,Mumbai
+804,Fitness/Recreational,Ease of Use,Smartphone Mount,15179,Tier-2 City
+805,Commuter,Evidence,Budget Action Cam,3298,Bangalore
+806,Fitness/Recreational,Social Sharing,Mid-range Action Cam,16606,Tier-2 City
+807,Enthusiast/Pro,Image Quality,High-end Action Cam,22749,Mumbai
+808,Enthusiast/Pro,Data Overlay,360 Cam,36589,Mumbai
+809,Commuter,Safety/Dashcam,Smartphone Mount,3950,Tier-2 City
+810,Commuter,Battery Life,Budget Action Cam,4122,Delhi
+811,Enthusiast/Pro,Image Quality,High-end Action Cam,22708,Pune
+812,Fitness/Recreational,Social Sharing,Smartphone Mount,17278,Bangalore
+813,Commuter,Battery Life,Budget Action Cam,4849,Bangalore
+814,Enthusiast/Pro,Data Overlay,High-end Action Cam,23551,Delhi
+815,Enthusiast/Pro,Image Quality,High-end Action Cam,22832,Delhi
+816,Fitness/Recreational,Ease of Use,Mid-range Action Cam,16156,Delhi
+817,Fitness/Recreational,Social Sharing,Smartphone Mount,19144,Chennai
+818,Commuter,Battery Life,Smartphone Mount,4375,Chennai
+819,Commuter,Safety/Dashcam,Budget Action Cam,4699,Tier-2 City
+820,Commuter,Battery Life,Budget Action Cam,2414,Chennai
+821,Fitness/Recreational,Scenery,360 Cam,5406,Mumbai
+822,Commuter,Evidence,Budget Action Cam,2161,Tier-2 City
+823,Commuter,Safety/Dashcam,Smartphone Mount,1180,Bangalore
+824,Commuter,Safety/Dashcam,Smartphone Mount,4857,Pune
+825,Fitness/Recreational,Social Sharing,Mid-range Action Cam,12742,Mumbai
+826,Enthusiast/Pro,Data Overlay,360 Cam,20174,Bangalore
+827,Commuter,Safety/Dashcam,Budget Action Cam,4660,Bangalore
+828,Commuter,Safety/Dashcam,Smartphone Mount,4354,Tier-2 City
+829,Fitness/Recreational,Scenery,Smartphone Mount,13234,Delhi
+830,Commuter,Battery Life,Smartphone Mount,3373,Delhi
+831,Commuter,Safety/Dashcam,Budget Action Cam,3886,Mumbai
+832,Commuter,Safety/Dashcam,Budget Action Cam,1492,Delhi
+833,Commuter,Safety/Dashcam,Smartphone Mount,2740,Bangalore
+834,Commuter,Safety/Dashcam,Budget Action Cam,889,Delhi
+835,Commuter,Safety/Dashcam,Budget Action Cam,1158,Chennai
+836,Commuter,Battery Life,Budget Action Cam,4231,Delhi
+837,Enthusiast/Pro,Stabilization,High-end Action Cam,47798,Bangalore
+838,Commuter,Evidence,Budget Action Cam,1382,Tier-2 City
+839,Fitness/Recreational,Social Sharing,Mid-range Action Cam,15758,Mumbai
+840,Fitness/Recreational,Scenery,Mid-range Action Cam,17738,Pune
+841,Commuter,Evidence,Budget Action Cam,3750,Delhi
+842,Fitness/Recreational,Scenery,Smartphone Mount,12291,Bangalore
+843,Commuter,Safety/Dashcam,Smartphone Mount,3697,Pune
+844,Enthusiast/Pro,Data Overlay,High-end Action Cam,36523,Pune
+845,Commuter,Safety/Dashcam,Budget Action Cam,1016,Chennai
+846,Commuter,Safety/Dashcam,Budget Action Cam,1387,Pune
+847,Commuter,Battery Life,Smartphone Mount,549,Tier-2 City
+848,Enthusiast/Pro,Data Overlay,360 Cam,42724,Bangalore
+849,Fitness/Recreational,Ease of Use,Smartphone Mount,7606,Bangalore
+850,Fitness/Recreational,Ease of Use,360 Cam,18452,Delhi
+851,Commuter,Evidence,Budget Action Cam,4810,Delhi
+852,Fitness/Recreational,Scenery,Mid-range Action Cam,13319,Delhi
+853,Commuter,Evidence,Smartphone Mount,3261,Tier-2 City
+854,Enthusiast/Pro,Data Overlay,Drone,42745,Pune
+855,Commuter,Evidence,Smartphone Mount,2869,Pune
+856,Commuter,Evidence,Smartphone Mount,1841,Chennai
+857,Commuter,Safety/Dashcam,Budget Action Cam,4045,Tier-2 City
+858,Commuter,Safety/Dashcam,Smartphone Mount,3775,Delhi
+859,Fitness/Recreational,Ease of Use,Smartphone Mount,18065,Mumbai
+860,Commuter,Evidence,Smartphone Mount,707,Chennai
+861,Fitness/Recreational,Scenery,Smartphone Mount,15825,Mumbai
+862,Commuter,Evidence,Budget Action Cam,3866,Pune
+863,Fitness/Recreational,Ease of Use,Smartphone Mount,19565,Chennai
+864,Commuter,Battery Life,Smartphone Mount,2695,Chennai
+865,Commuter,Battery Life,Smartphone Mount,2914,Bangalore
+866,Fitness/Recreational,Scenery,Smartphone Mount,7849,Pune
+867,Commuter,Evidence,Budget Action Cam,2242,Pune
+868,Commuter,Battery Life,Smartphone Mount,4695,Tier-2 City
+869,Enthusiast/Pro,Stabilization,High-end Action Cam,49084,Chennai
+870,Enthusiast/Pro,Data Overlay,High-end Action Cam,34296,Pune
+871,Commuter,Evidence,Smartphone Mount,3494,Chennai
+872,Commuter,Safety/Dashcam,Smartphone Mount,2313,Tier-2 City
+873,Fitness/Recreational,Scenery,Smartphone Mount,11124,Tier-2 City
+874,Commuter,Safety/Dashcam,Smartphone Mount,1591,Bangalore
+875,Commuter,Battery Life,Smartphone Mount,582,Chennai
+876,Commuter,Safety/Dashcam,Smartphone Mount,3644,Pune
+877,Fitness/Recreational,Social Sharing,Mid-range Action Cam,12071,Pune
+878,Fitness/Recreational,Scenery,360 Cam,15896,Chennai
+879,Commuter,Evidence,Smartphone Mount,2601,Chennai
+880,Commuter,Evidence,Smartphone Mount,1864,Chennai
+881,Commuter,Battery Life,Budget Action Cam,4962,Delhi
+882,Fitness/Recreational,Ease of Use,Mid-range Action Cam,7426,Pune
+883,Commuter,Safety/Dashcam,Smartphone Mount,3462,Tier-2 City
+884,Commuter,Safety/Dashcam,Smartphone Mount,1564,Pune
+885,Fitness/Recreational,Scenery,Mid-range Action Cam,18804,Delhi
+886,Commuter,Battery Life,Smartphone Mount,650,Chennai
+887,Fitness/Recreational,Ease of Use,Mid-range Action Cam,10166,Bangalore
+888,Commuter,Battery Life,Smartphone Mount,4664,Chennai
+889,Commuter,Battery Life,Smartphone Mount,2750,Chennai
+890,Commuter,Safety/Dashcam,Smartphone Mount,4401,Delhi
+891,Fitness/Recreational,Scenery,Mid-range Action Cam,6551,Pune
+892,Enthusiast/Pro,Image Quality,High-end Action Cam,37910,Chennai
+893,Fitness/Recreational,Scenery,Mid-range Action Cam,15878,Pune
+894,Commuter,Battery Life,Smartphone Mount,2866,Mumbai
+895,Fitness/Recreational,Social Sharing,Mid-range Action Cam,15626,Tier-2 City
+896,Commuter,Evidence,Smartphone Mount,1514,Pune
+897,Commuter,Battery Life,Smartphone Mount,1190,Bangalore
+898,Enthusiast/Pro,Image Quality,High-end Action Cam,43624,Tier-2 City
+899,Commuter,Safety/Dashcam,Smartphone Mount,794,Bangalore
+900,Commuter,Safety/Dashcam,Budget Action Cam,3412,Chennai
+901,Commuter,Evidence,Budget Action Cam,2373,Tier-2 City
+902,Commuter,Battery Life,Smartphone Mount,944,Pune
+903,Commuter,Evidence,Smartphone Mount,1241,Tier-2 City
+904,Fitness/Recreational,Scenery,Smartphone Mount,16889,Chennai
+905,Commuter,Battery Life,Budget Action Cam,562,Delhi
+906,Enthusiast/Pro,Image Quality,360 Cam,48345,Bangalore
+907,Fitness/Recreational,Social Sharing,Smartphone Mount,17543,Chennai
+908,Commuter,Battery Life,Smartphone Mount,2635,Delhi
+909,Commuter,Battery Life,Smartphone Mount,3574,Tier-2 City
+910,Commuter,Evidence,Smartphone Mount,620,Tier-2 City
+911,Fitness/Recreational,Social Sharing,360 Cam,18652,Chennai
+912,Commuter,Safety/Dashcam,Smartphone Mount,3261,Pune
+913,Fitness/Recreational,Social Sharing,Mid-range Action Cam,7668,Tier-2 City
+914,Commuter,Battery Life,Smartphone Mount,1302,Pune
+915,Fitness/Recreational,Social Sharing,Smartphone Mount,7187,Pune
+916,Commuter,Battery Life,Smartphone Mount,4106,Pune
+917,Commuter,Safety/Dashcam,Smartphone Mount,3890,Mumbai
+918,Enthusiast/Pro,Image Quality,360 Cam,26296,Delhi
+919,Fitness/Recreational,Social Sharing,Smartphone Mount,7591,Delhi
+920,Commuter,Battery Life,Budget Action Cam,2071,Tier-2 City
+921,Enthusiast/Pro,Image Quality,High-end Action Cam,35721,Tier-2 City
+922,Commuter,Evidence,Budget Action Cam,1736,Pune
+923,Enthusiast/Pro,Data Overlay,High-end Action Cam,35346,Mumbai
+924,Fitness/Recreational,Social Sharing,Mid-range Action Cam,5661,Pune
+925,Commuter,Safety/Dashcam,Budget Action Cam,586,Mumbai
+926,Commuter,Safety/Dashcam,Smartphone Mount,3442,Pune
+927,Commuter,Evidence,Smartphone Mount,3810,Bangalore
+928,Fitness/Recreational,Social Sharing,Smartphone Mount,11815,Bangalore
+929,Fitness/Recreational,Scenery,Smartphone Mount,6647,Chennai
+930,Commuter,Battery Life,Smartphone Mount,3818,Pune
+931,Commuter,Safety/Dashcam,Budget Action Cam,1145,Tier-2 City
+932,Fitness/Recreational,Scenery,Smartphone Mount,18045,Delhi
+933,Enthusiast/Pro,Data Overlay,High-end Action Cam,24733,Chennai
+934,Fitness/Recreational,Ease of Use,Mid-range Action Cam,13690,Tier-2 City
+935,Commuter,Evidence,Smartphone Mount,3567,Bangalore
+936,Commuter,Battery Life,Smartphone Mount,2236,Pune
+937,Commuter,Evidence,Smartphone Mount,2753,Chennai
+938,Enthusiast/Pro,Stabilization,High-end Action Cam,35093,Pune
+939,Commuter,Battery Life,Smartphone Mount,4482,Bangalore
+940,Fitness/Recreational,Scenery,360 Cam,12751,Chennai
+941,Commuter,Battery Life,Smartphone Mount,3860,Bangalore
+942,Fitness/Recreational,Scenery,Mid-range Action Cam,7242,Mumbai
+943,Fitness/Recreational,Scenery,Smartphone Mount,10097,Bangalore
+944,Fitness/Recreational,Social Sharing,Smartphone Mount,18665,Pune
+945,Commuter,Battery Life,Smartphone Mount,2420,Delhi
+946,Commuter,Evidence,Smartphone Mount,738,Bangalore
+947,Commuter,Safety/Dashcam,Smartphone Mount,4840,Tier-2 City
+948,Enthusiast/Pro,Data Overlay,High-end Action Cam,39071,Delhi
+949,Enthusiast/Pro,Image Quality,High-end Action Cam,41772,Mumbai
+950,Fitness/Recreational,Social Sharing,Mid-range Action Cam,10126,Chennai
+951,Fitness/Recreational,Scenery,Mid-range Action Cam,14012,Chennai
+952,Fitness/Recreational,Social Sharing,Smartphone Mount,17816,Delhi
+953,Commuter,Battery Life,Smartphone Mount,2288,Chennai
+954,Enthusiast/Pro,Stabilization,High-end Action Cam,23700,Bangalore
+955,Commuter,Battery Life,Smartphone Mount,1667,Delhi
+956,Commuter,Safety/Dashcam,Budget Action Cam,1596,Pune
+957,Fitness/Recreational,Social Sharing,Smartphone Mount,14813,Bangalore
+958,Commuter,Safety/Dashcam,Smartphone Mount,3494,Bangalore
+959,Commuter,Evidence,Budget Action Cam,1217,Bangalore
+960,Fitness/Recreational,Social Sharing,Smartphone Mount,10057,Pune
+961,Commuter,Safety/Dashcam,Budget Action Cam,4734,Mumbai
+962,Fitness/Recreational,Social Sharing,Smartphone Mount,7104,Tier-2 City
+963,Commuter,Evidence,Budget Action Cam,3107,Chennai
+964,Commuter,Evidence,Smartphone Mount,3081,Delhi
+965,Commuter,Evidence,Smartphone Mount,2839,Mumbai
+966,Commuter,Battery Life,Smartphone Mount,3372,Delhi
+967,Fitness/Recreational,Social Sharing,Smartphone Mount,11476,Chennai
+968,Commuter,Safety/Dashcam,Budget Action Cam,1031,Pune
+969,Fitness/Recreational,Social Sharing,Mid-range Action Cam,16996,Bangalore
+970,Commuter,Battery Life,Smartphone Mount,705,Bangalore
+971,Fitness/Recreational,Ease of Use,Mid-range Action Cam,17931,Pune
+972,Enthusiast/Pro,Stabilization,High-end Action Cam,22890,Mumbai
+973,Fitness/Recreational,Scenery,Smartphone Mount,11239,Mumbai
+974,Commuter,Battery Life,Smartphone Mount,1397,Delhi
+975,Commuter,Evidence,Budget Action Cam,1170,Pune
+976,Commuter,Evidence,Budget Action Cam,2455,Mumbai
+977,Fitness/Recreational,Social Sharing,Mid-range Action Cam,6892,Pune
+978,Commuter,Safety/Dashcam,Smartphone Mount,2003,Chennai
+979,Commuter,Evidence,Budget Action Cam,3926,Bangalore
+980,Fitness/Recreational,Social Sharing,Smartphone Mount,13235,Bangalore
+981,Commuter,Safety/Dashcam,Smartphone Mount,3663,Bangalore
+982,Fitness/Recreational,Social Sharing,Smartphone Mount,6925,Pune
+983,Commuter,Safety/Dashcam,Smartphone Mount,3971,Pune
+984,Commuter,Battery Life,Smartphone Mount,2312,Delhi
+985,Fitness/Recreational,Scenery,Mid-range Action Cam,16748,Bangalore
+986,Commuter,Safety/Dashcam,Smartphone Mount,3391,Delhi
+987,Fitness/Recreational,Scenery,Smartphone Mount,11410,Bangalore
+988,Commuter,Evidence,Smartphone Mount,1115,Delhi
+989,Commuter,Battery Life,Smartphone Mount,1454,Delhi
+990,Fitness/Recreational,Scenery,Smartphone Mount,11859,Chennai
+991,Fitness/Recreational,Scenery,Mid-range Action Cam,8278,Delhi
+992,Fitness/Recreational,Social Sharing,Mid-range Action Cam,16441,Pune
+993,Commuter,Battery Life,Budget Action Cam,883,Delhi
+994,Fitness/Recreational,Scenery,Mid-range Action Cam,9334,Bangalore
+995,Commuter,Battery Life,Budget Action Cam,3793,Delhi
+996,Commuter,Safety/Dashcam,Smartphone Mount,4751,Mumbai
+997,Enthusiast/Pro,Data Overlay,360 Cam,36140,Tier-2 City
+998,Commuter,Battery Life,Smartphone Mount,3546,Bangalore
+999,Enthusiast/Pro,Data Overlay,360 Cam,30627,Mumbai
+1000,Commuter,Battery Life,Budget Action Cam,1863,Bangalore
