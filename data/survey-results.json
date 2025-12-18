@@ -1,0 +1,415 @@
+{
+  "survey_metadata": {
+    "title": "印度骑行拍摄用户需求调研",
+    "total_respondents": 500,
+    "survey_period": "2025-11-01 to 2025-12-15",
+    "cities_covered": [
+      "Bangalore",
+      "Pune",
+      "Delhi NCR",
+      "Mumbai",
+      "Hyderabad",
+      "Chennai",
+      "Kolkata"
+    ],
+    "methodology": "在线问卷 + 深度访谈"
+  },
+  
+  "demographics": {
+    "age_distribution": {
+      "18-24": 15,
+      "25-30": 35,
+      "31-35": 28,
+      "36-40": 15,
+      "41-45": 5,
+      "46+": 2
+    },
+    "gender": {
+      "male": 72,
+      "female": 26,
+      "other": 2
+    },
+    "income_bracket": {
+      "below_200k": 10,
+      "200k-350k": 25,
+      "350k-500k": 30,
+      "500k-750k": 20,
+      "750k-1M": 10,
+      "above_1M": 5
+    },
+    "cycling_frequency": {
+      "daily": 25,
+      "3-5_times_week": 30,
+      "1-2_times_week": 35,
+      "few_times_month": 8,
+      "rarely": 2
+    }
+  },
+  
+  "user_segments": {
+    "professional_cyclists": 20,
+    "recreational_riders": 50,
+    "commuters": 25,
+    "beginners": 5
+  },
+  
+  "current_equipment_usage": {
+    "no_equipment": 35,
+    "basic_phone_mount": 40,
+    "stabilizer": 15,
+    "action_camera": 8,
+    "professional_setup": 2
+  },
+  
+  "pain_points_ranking": [
+    {
+      "rank": 1,
+      "pain_point": "安全性问题（手机脱落风险）",
+      "severity_score": 9.5,
+      "affected_users_pct": 85
+    },
+    {
+      "rank": 2,
+      "pain_point": "画面抖动严重",
+      "severity_score": 9.2,
+      "affected_users_pct": 90
+    },
+    {
+      "rank": 3,
+      "pain_point": "价格昂贵",
+      "severity_score": 9.0,
+      "affected_users_pct": 80
+    },
+    {
+      "rank": 4,
+      "pain_point": "操作不便",
+      "severity_score": 8.5,
+      "affected_users_pct": 80
+    },
+    {
+      "rank": 5,
+      "pain_point": "性价比低",
+      "severity_score": 8.5,
+      "affected_users_pct": 85
+    },
+    {
+      "rank": 6,
+      "pain_point": "安装复杂",
+      "severity_score": 8.3,
+      "affected_users_pct": 75
+    },
+    {
+      "rank": 7,
+      "pain_point": "售后服务缺失",
+      "severity_score": 8.2,
+      "affected_users_pct": 70
+    },
+    {
+      "rank": 8,
+      "pain_point": "耐用性差",
+      "severity_score": 8.0,
+      "affected_users_pct": 70
+    },
+    {
+      "rank": 9,
+      "pain_point": "后期处理困难",
+      "severity_score": 8.0,
+      "affected_users_pct": 70
+    },
+    {
+      "rank": 10,
+      "pain_point": "画质不佳",
+      "severity_score": 7.8,
+      "affected_users_pct": 65
+    }
+  ],
+  
+  "feature_importance": [
+    {
+      "feature": "稳定性（防抖）",
+      "importance_score": 9.2,
+      "willing_to_pay_extra": 78
+    },
+    {
+      "feature": "安全固定",
+      "importance_score": 9.5,
+      "willing_to_pay_extra": 85
+    },
+    {
+      "feature": "易于安装",
+      "importance_score": 8.8,
+      "willing_to_pay_extra": 65
+    },
+    {
+      "feature": "手机兼容性",
+      "importance_score": 8.0,
+      "willing_to_pay_extra": 55
+    },
+    {
+      "feature": "电池续航",
+      "importance_score": 7.5,
+      "willing_to_pay_extra": 60
+    },
+    {
+      "feature": "防水功能",
+      "importance_score": 7.2,
+      "willing_to_pay_extra": 50
+    },
+    {
+      "feature": "语音控制",
+      "importance_score": 7.0,
+      "willing_to_pay_extra": 45
+    },
+    {
+      "feature": "画质增强",
+      "importance_score": 8.2,
+      "willing_to_pay_extra": 52
+    },
+    {
+      "feature": "AI剪辑",
+      "importance_score": 6.5,
+      "willing_to_pay_extra": 35
+    },
+    {
+      "feature": "社区功能",
+      "importance_score": 6.2,
+      "willing_to_pay_extra": 28
+    }
+  ],
+  
+  "price_sensitivity": {
+    "acceptable_price_ranges": {
+      "below_2000": 25,
+      "2000-5000": 50,
+      "5000-10000": 18,
+      "10000-15000": 5,
+      "above_15000": 2
+    },
+    "sweet_spot": "₹3,000 - ₹5,000",
+    "average_acceptable_price": 4200,
+    "price_quality_expectation": {
+      "below_2000": "基础功能，可接受质量问题",
+      "2000-5000": "良好质量，核心功能完善",
+      "5000-10000": "高质量，专业功能",
+      "above_10000": "顶级品质，全面功能"
+    }
+  },
+  
+  "usage_scenarios": {
+    "weekend_leisure_rides": 45,
+    "daily_commute": 25,
+    "long_distance_touring": 15,
+    "mountain_biking": 10,
+    "road_racing": 5
+  },
+  
+  "content_sharing_behavior": {
+    "share_on_social_media": 70,
+    "platforms_used": {
+      "Instagram": 85,
+      "Facebook": 60,
+      "WhatsApp_Status": 55,
+      "YouTube": 25,
+      "Twitter": 15
+    },
+    "sharing_frequency": {
+      "every_ride": 15,
+      "once_week": 35,
+      "few_times_month": 30,
+      "rarely": 15,
+      "never": 5
+    },
+    "content_types": {
+      "photos": 80,
+      "short_videos": 65,
+      "vlogs": 20,
+      "live_streams": 5
+    }
+  },
+  
+  "purchase_decision_factors": [
+    {
+      "factor": "价格",
+      "importance_score": 9.3,
+      "rank": 1
+    },
+    {
+      "factor": "产品质量和可靠性",
+      "importance_score": 9.1,
+      "rank": 2
+    },
+    {
+      "factor": "用户评价和口碑",
+      "importance_score": 8.5,
+      "rank": 3
+    },
+    {
+      "factor": "品牌信誉",
+      "importance_score": 7.8,
+      "rank": 4
+    },
+    {
+      "factor": "售后服务",
+      "importance_score": 7.5,
+      "rank": 5
+    },
+    {
+      "factor": "功能和特性",
+      "importance_score": 7.2,
+      "rank": 6
+    },
+    {
+      "factor": "设计和外观",
+      "importance_score": 6.5,
+      "rank": 7
+    }
+  ],
+  
+  "barriers_to_purchase": {
+    "too_expensive": 52,
+    "unsure_of_quality": 35,
+    "dont_know_what_to_buy": 30,
+    "afraid_of_phone_damage": 28,
+    "complex_to_use": 25,
+    "no_after_sales_support": 22,
+    "not_necessary": 15
+  },
+  
+  "brand_awareness": {
+    "GoPro": 75,
+    "DJI": 60,
+    "Insta360": 25,
+    "local_brands": 40,
+    "no_brand_preference": 30
+  },
+  
+  "information_sources": {
+    "YouTube_reviews": 65,
+    "Instagram": 55,
+    "friends_recommendations": 50,
+    "cycling_clubs": 35,
+    "online_forums": 30,
+    "retail_stores": 25,
+    "Facebook_groups": 40
+  },
+  
+  "desired_improvements": [
+    "更好的稳定性",
+    "更安全的固定方式",
+    "更低的价格",
+    "更简单的操作",
+    "更长的续航",
+    "防水功能",
+    "本地语言支持",
+    "更好的售后服务",
+    "兼容更多设备",
+    "智能功能"
+  ],
+  
+  "customer_satisfaction": {
+    "current_solution_satisfaction": {
+      "very_satisfied": 5,
+      "satisfied": 20,
+      "neutral": 30,
+      "dissatisfied": 30,
+      "very_dissatisfied": 15
+    },
+    "likelihood_to_upgrade": {
+      "definitely": 40,
+      "probably": 35,
+      "maybe": 20,
+      "unlikely": 5
+    },
+    "nps_score": 25
+  },
+  
+  "regional_insights": {
+    "Bangalore": {
+      "tech_savvy": 85,
+      "price_sensitivity": "medium",
+      "prefer_smart_features": true,
+      "avg_budget": 5500
+    },
+    "Pune": {
+      "cycling_culture": "strong",
+      "price_sensitivity": "medium",
+      "prefer_reliability": true,
+      "avg_budget": 4800
+    },
+    "Delhi_NCR": {
+      "large_market": true,
+      "price_sensitivity": "high",
+      "prefer_brand_names": true,
+      "avg_budget": 4200
+    },
+    "Mumbai": {
+      "high_income": true,
+      "price_sensitivity": "low",
+      "prefer_premium": true,
+      "avg_budget": 6500
+    },
+    "Tier_2_cities": {
+      "growing_fast": true,
+      "price_sensitivity": "very_high",
+      "prefer_value": true,
+      "avg_budget": 3200
+    }
+  },
+  
+  "open_feedback_themes": {
+    "safety_concerns": {
+      "mentions": 156,
+      "sentiment": "very_negative",
+      "examples": [
+        "担心手机掉落摔坏",
+        "支架不够稳固",
+        "影响骑行安全"
+      ]
+    },
+    "stability_issues": {
+      "mentions": 178,
+      "sentiment": "negative",
+      "examples": [
+        "印度路况差，视频抖动严重",
+        "防抖效果不够",
+        "拍出来根本没法看"
+      ]
+    },
+    "price_complaints": {
+      "mentions": 142,
+      "sentiment": "negative",
+      "examples": [
+        "好的产品太贵买不起",
+        "便宜的质量太差",
+        "性价比低"
+      ]
+    },
+    "ease_of_use": {
+      "mentions": 98,
+      "sentiment": "negative",
+      "examples": [
+        "安装太复杂",
+        "骑行中操作不便",
+        "学习成本高"
+      ]
+    },
+    "durability": {
+      "mentions": 87,
+      "sentiment": "negative",
+      "examples": [
+        "用几个月就坏了",
+        "塑料容易裂开",
+        "不经用"
+      ]
+    },
+    "positive_expectations": {
+      "mentions": 112,
+      "sentiment": "positive",
+      "examples": [
+        "希望有专为印度设计的产品",
+        "期待价格合理质量好的选择",
+        "想要简单好用的解决方案"
+      ]
+    }
+  }
+}

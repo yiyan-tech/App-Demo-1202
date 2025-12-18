@@ -1,0 +1,396 @@
+{
+  "personas": [
+    {
+      "id": "persona_1",
+      "name": "Rajesh Kumar",
+      "archetype": "专业骑行爱好者",
+      "segment_size": "20%",
+      "avatar": "👨‍💼🚴",
+      
+      "demographics": {
+        "age": 32,
+        "gender": "男",
+        "location": "Bangalore",
+        "occupation": "软件工程师",
+        "income": "₹800,000/年",
+        "education": "本科及以上",
+        "marital_status": "已婚"
+      },
+      
+      "cycling_profile": {
+        "experience_years": 5,
+        "cycling_frequency": "每周4-5次",
+        "avg_distance_per_ride": "40-60公里",
+        "bike_type": "公路车",
+        "bike_value": "₹80,000",
+        "favorite_routes": ["Nandi Hills", "Bangalore-Mysore Highway"],
+        "participates_in_events": true
+      },
+      
+      "photography_behavior": {
+        "current_equipment": "DJI Osmo Action 3",
+        "shooting_frequency": "每次骑行",
+        "content_types": ["训练视频", "赛事记录", "技术分析"],
+        "sharing_platforms": ["Strava", "Instagram", "YouTube"],
+        "followers": 2500,
+        "is_content_creator": true
+      },
+      
+      "goals": [
+        "记录训练数据和进步",
+        "分享骑行经验和技巧",
+        "参与骑行社区互动",
+        "提升个人品牌影响力"
+      ],
+      
+      "pain_points": [
+        "现有设备价格昂贵（₹30,000+）",
+        "需要携带多个设备和配件",
+        "数据整合不够智能",
+        "电池续航不足长距离骑行"
+      ],
+      
+      "needs": [
+        "专业级画质和稳定性",
+        "数据集成功能（速度、心率、功率）",
+        "长续航能力（3小时+）",
+        "高级拍摄功能（慢动作、延时）",
+        "耐用可靠的品质"
+      ],
+      
+      "tech_savviness": "高",
+      "price_sensitivity": "中",
+      "acceptable_price_range": "₹10,000 - ₹30,000",
+      "ideal_solution": "高端专业产品",
+      
+      "quotes": [
+        "我需要专业的设备来记录我的训练和比赛，画质和数据很重要。",
+        "虽然价格贵，但如果质量好、功能强，我愿意投资。",
+        "希望有一体化解决方案，不用带那么多设备。"
+      ],
+      
+      "user_journey": {
+        "awareness": "通过YouTube评测和骑行俱乐部了解产品",
+        "consideration": "对比多个品牌，关注专业评测和用户口碑",
+        "purchase": "在线购买，偏好官网或授权渠道",
+        "usage": "频繁使用，深度体验所有功能",
+        "advocacy": "会在社交媒体分享使用体验，影响他人"
+      },
+      
+      "frustrations": [
+        "市场上缺少性价比高的专业方案",
+        "售后服务不够本地化",
+        "配件生态不够丰富"
+      ],
+      
+      "opportunities": [
+        "愿意为创新功能付费",
+        "可以成为品牌大使",
+        "有较强的社区影响力"
+      ]
+    },
+    
+    {
+      "id": "persona_2",
+      "name": "Priya Sharma",
+      "archetype": "休闲骑行者",
+      "segment_size": "50%",
+      "avatar": "👩‍🎓🚴‍♀️",
+      
+      "demographics": {
+        "age": 26,
+        "gender": "女",
+        "location": "Pune",
+        "occupation": "市场营销",
+        "income": "₹450,000/年",
+        "education": "本科",
+        "marital_status": "未婚"
+      },
+      
+      "cycling_profile": {
+        "experience_years": 2,
+        "cycling_frequency": "周末和假期",
+        "avg_distance_per_ride": "15-25公里",
+        "bike_type": "混合车",
+        "bike_value": "₹25,000",
+        "favorite_routes": ["Pune River Front", "Khadakwasla Dam"],
+        "participates_in_events": false
+      },
+      
+      "photography_behavior": {
+        "current_equipment": "廉价手机支架（₹1,500）",
+        "shooting_frequency": "偶尔",
+        "content_types": ["风景照片", "自拍", "Vlog片段"],
+        "sharing_platforms": ["Instagram", "WhatsApp Status", "Facebook"],
+        "followers": 450,
+        "is_content_creator": false
+      },
+      
+      "goals": [
+        "记录美好的骑行瞬间",
+        "在社交媒体分享生活",
+        "和朋友一起享受骑行乐趣",
+        "保持健康和放松"
+      ],
+      
+      "pain_points": [
+        "手机支架不稳定，担心手机掉落",
+        "视频抖动严重，不好意思分享",
+        "不知道买什么产品，选择困难",
+        "专业设备太贵，超出预算",
+        "操作复杂，懒得学习"
+      ],
+      
+      "needs": [
+        "安全可靠的固定方式",
+        "基本的防抖功能",
+        "简单易用，即插即用",
+        "价格合理（₹3,000-5,000）",
+        "美观时尚的设计",
+        "适合社交媒体的功能"
+      ],
+      
+      "tech_savviness": "中",
+      "price_sensitivity": "高",
+      "acceptable_price_range": "₹2,000 - ₹8,000",
+      "ideal_solution": "中端性价比产品",
+      
+      "quotes": [
+        "我就想拍点好看的照片发Instagram，不需要太复杂的功能。",
+        "最担心的是手机掉下来摔坏，那可是₹30,000的手机啊！",
+        "希望有个简单好用又不贵的产品，₹4,000左右就很好。"
+      ],
+      
+      "user_journey": {
+        "awareness": "通过Instagram广告、朋友推荐",
+        "consideration": "看用户评价、价格对比、朋友意见",
+        "purchase": "在线购买（Amazon/Flipkart）或朋友推荐的店",
+        "usage": "周末使用，基本功能为主",
+        "advocacy": "如果好用会推荐给朋友，发社交媒体"
+      },
+      
+      "frustrations": [
+        "不知道哪个产品适合自己",
+        "担心买了不会用或效果不好",
+        "害怕浪费钱"
+      ],
+      
+      "opportunities": [
+        "口碑传播能力强",
+        "社交媒体活跃",
+        "愿意尝试新产品",
+        "市场规模最大"
+      ]
+    },
+    
+    {
+      "id": "persona_3",
+      "name": "Amit Patel",
+      "archetype": "通勤骑行者",
+      "segment_size": "25%",
+      "avatar": "👨‍💼🚴",
+      
+      "demographics": {
+        "age": 35,
+        "gender": "男",
+        "location": "Mumbai",
+        "occupation": "银行职员",
+        "income": "₹600,000/年",
+        "education": "本科",
+        "marital_status": "已婚，有孩子"
+      },
+      
+      "cycling_profile": {
+        "experience_years": 3,
+        "cycling_frequency": "每天上下班",
+        "avg_distance_per_ride": "8-12公里",
+        "bike_type": "通勤车",
+        "bike_value": "₹18,000",
+        "favorite_routes": ["家-公司固定路线"],
+        "participates_in_events": false
+      },
+      
+      "photography_behavior": {
+        "current_equipment": "无专门设备",
+        "shooting_frequency": "很少",
+        "content_types": ["偶尔记录路况", "安全记录"],
+        "sharing_platforms": ["WhatsApp家庭群"],
+        "followers": 0,
+        "is_content_creator": false
+      },
+      
+      "goals": [
+        "省钱和锻炼身体",
+        "避开交通拥堵",
+        "骑行安全记录",
+        "偶尔记录有趣的瞬间"
+      ],
+      
+      "pain_points": [
+        "孟买交通混乱，需要行车记录",
+        "担心交通事故无证据",
+        "现有产品不适合日常通勤使用",
+        "不想花太多钱在拍摄设备上"
+      ],
+      
+      "needs": [
+        "类似行车记录仪的功能",
+        "自动循环录制",
+        "可靠耐用，不需要每天拆装",
+        "低维护成本",
+        "价格实惠（₹2,000-5,000）",
+        "夜间拍摄能力"
+      ],
+      
+      "tech_savviness": "中低",
+      "price_sensitivity": "高",
+      "acceptable_price_range": "₹1,500 - ₹5,000",
+      "ideal_solution": "实用型工具产品",
+      
+      "quotes": [
+        "我主要是需要一个行车记录，万一出事故有个证据。",
+        "不需要什么花哨功能，能稳定录像就行。",
+        "价格要实惠，我每天用，得耐用。"
+      ],
+      
+      "user_journey": {
+        "awareness": "通过Google搜索、本地自行车店",
+        "consideration": "关注实用性和价格，看评分",
+        "purchase": "倾向线下购买，可以看实物",
+        "usage": "每天使用，操作要简单",
+        "advocacy": "如果好用会告诉同事"
+      },
+      
+      "frustrations": [
+        "市场上没有针对通勤设计的产品",
+        "担心设备被盗",
+        "电池续航不够一天使用"
+      ],
+      
+      "opportunities": [
+        "市场需求明确但被忽视",
+        "忠诚度高，长期使用",
+        "职场口碑传播"
+      ]
+    },
+    
+    {
+      "id": "persona_4",
+      "name": "Sneha Reddy",
+      "archetype": "初学者/尝鲜者",
+      "segment_size": "5%",
+      "avatar": "👩‍🎓🚴‍♀️",
+      
+      "demographics": {
+        "age": 22,
+        "gender": "女",
+        "location": "Hyderabad",
+        "occupation": "大学生",
+        "income": "₹0（父母支持）",
+        "education": "在读本科",
+        "marital_status": "未婚"
+      },
+      
+      "cycling_profile": {
+        "experience_years": 0.5,
+        "cycling_frequency": "不定期",
+        "avg_distance_per_ride": "5-10公里",
+        "bike_type": "普通自行车",
+        "bike_value": "₹8,000",
+        "favorite_routes": ["校园周边", "公园"],
+        "participates_in_events": false
+      },
+      
+      "photography_behavior": {
+        "current_equipment": "手持手机",
+        "shooting_frequency": "偶尔",
+        "content_types": ["自拍", "朋友合影"],
+        "sharing_platforms": ["Instagram", "Snapchat"],
+        "followers": 320,
+        "is_content_creator": false
+      },
+      
+      "goals": [
+        "尝试新鲜事物",
+        "社交媒体打卡",
+        "和朋友一起玩",
+        "拍美照"
+      ],
+      
+      "pain_points": [
+        "预算非常有限",
+        "不确定会不会长期骑行",
+        "不想投资太多",
+        "怕买了不会用"
+      ],
+      
+      "needs": [
+        "超低价格（₹500-2,000）",
+        "基础功能即可",
+        "时尚外观",
+        "简单到不能再简单",
+        "可以试用或租赁"
+      ],
+      
+      "tech_savviness": "中",
+      "price_sensitivity": "极高",
+      "acceptable_price_range": "₹500 - ₹2,000",
+      "ideal_solution": "入门级产品或租赁服务",
+      
+      "quotes": [
+        "我就是玩玩，不想花太多钱。",
+        "如果有便宜的试试也可以。",
+        "主要是拍照发朋友圈，不需要专业的。"
+      ],
+      
+      "user_journey": {
+        "awareness": "社交媒体、朋友",
+        "consideration": "主要看价格和外观",
+        "purchase": "在线购买最便宜的",
+        "usage": "新鲜感过后可能闲置",
+        "advocacy": "不太会主动推荐"
+      },
+      
+      "frustrations": [
+        "没有适合学生的入门产品",
+        "不确定值不值得买"
+      ],
+      
+      "opportunities": [
+        "可以培养成长期用户",
+        "校园口碑传播",
+        "租赁或共享模式"
+      ]
+    }
+  ],
+  
+  "persona_comparison": {
+    "price_comparison": {
+      "professional": "₹10,000-30,000",
+      "recreational": "₹2,000-8,000",
+      "commuter": "₹1,500-5,000",
+      "beginner": "₹500-2,000"
+    },
+    
+    "feature_priority": {
+      "professional": ["画质", "数据集成", "耐用性", "高级功能"],
+      "recreational": ["安全性", "稳定性", "易用性", "性价比"],
+      "commuter": ["可靠性", "自动录制", "续航", "实用性"],
+      "beginner": ["价格", "外观", "简单性"]
+    },
+    
+    "marketing_channels": {
+      "professional": ["YouTube", "骑行俱乐部", "赛事", "KOL"],
+      "recreational": ["Instagram", "朋友推荐", "在线评价"],
+      "commuter": ["Google搜索", "本地店铺", "同事推荐"],
+      "beginner": ["社交媒体", "校园推广", "朋友"]
+    }
+  },
+  
+  "strategic_focus": {
+    "primary_target": "休闲骑行者（50%市场，最大规模）",
+    "secondary_target": "通勤骑行者（25%市场，稳定需求）",
+    "long_term_target": "专业骑行者（20%市场，高价值用户）",
+    "niche_target": "初学者（5%市场，培育市场）"
+  }
+}
